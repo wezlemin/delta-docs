@@ -1,7 +1,7 @@
 # Installing Delta via AltStore
 
 **Official Docs:**
-> **https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos**
+> **https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos** <br>
 > **https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows**
 
 ## Requirements
@@ -21,8 +21,8 @@
 
 ## Windows Preparation
 1. Install iTunes and iCloud using the following links:
-> iTunes: Windows 64-bit: https://www.apple.com/itunes/download/win64
-> iTunes: Windows 32-bit: https://www.apple.com/itunes/download/win32
+> iTunes: Windows 64-bit: https://www.apple.com/itunes/download/win64 <br>
+> iTunes: Windows 32-bit: https://www.apple.com/itunes/download/win32 <br>
 > iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
 2. Download AltServer from https://cdn.altstore.io/file/altstore/altinstaller.zip
 3. Extract AltInstaller.zip and run Setup.exe.
@@ -42,5 +42,3 @@
 
 ## NOTES:
 > You must make sure AltStore is connected to AltServer in order to sideload, refresh, activate, and deactivate apps. This is why SideStore is recommended as you only need to use a computer once (except in certain situations).
-
-**This tutorial was created by @quappingreal (Discord).**
