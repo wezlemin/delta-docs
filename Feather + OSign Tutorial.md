@@ -1,6 +1,6 @@
 # Installing Delta via Feather/Osign
 
-# Preparation
+## Preparation
 1. Read my IPASignX tutorial (https://rentry.co/delta-ipasignx). Instead of signing the Delta IPA, sign the Feather or Osign IPA.
 > If you want to use Feather, download this IPA: https://github.com/khcrysalis/Feather/releases/latest/download/Feather.ipa
 > If you want to use Osign, go to https://osign.ipasign.cc/. Click on Osign IPA and click Download.
@@ -8,7 +8,7 @@
 
 ## Continuing with Feather 
 1. Click on the Feather app and click Settings.
-2.  Click on Certificates and click Import. Import the Certificate File (the .p12 file you used on the IPASignerX website) and the Provisioning File (the .mobileprovision file). Set the password to "osign" and click Save. If nothing shows, try again.
+2. Click on Certificates and click Import. Import the Certificate File (the .p12 file you used on the IPASignX website) and the Provisioning File (the .mobileprovision file). Set the password to "osign" and click Save. If nothing shows, try again.
 3. Click Library and click Import.
 4. Find the Delta IPA you downloaded (Feather > click Browse > click Downloads) and click Open.
 5. Wait for the Delta IPA to finish importing, then click Sign. Click Start Signing and wait.
