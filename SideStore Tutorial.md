@@ -1,8 +1,8 @@
-#Installing Delta with SideStore
+# Installing Delta with SideStore
 **Refer to https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors for any problems or additional information.**
 **If you want to see a different version of this guide, look at the Windows/MacOS/Linux sections here: https://docs.deltaexploits.gg/installation/ios**
 
-##Requirements
+## Requirements
 To install SideStore, you will need:
 - An iPhone, iPad, or iPod touch with a passcode running iOS/iPadOS 15.0 or higher (the iDevice)
 - A computer running Windows 8 or higher, macOS High Sierra or higher, or an up-to-date Linux distribution; only for initial install
@@ -11,7 +11,7 @@ To install SideStore, you will need:
 - Developer Mode (iOS/iPadOS 16+)
 > To enable Developer mode, go to Privacy & Security and scroll down to Developer Mode. Enable it; your phone will restart.
 
-##Preparation
+## Preparation
 1. On your iDevice, go to the App Store and search "LocalDevVPN".
 2. Install the app and open it.
 > If you cannot use the AppStore as you are in the EU, use https://api.altstore.io/source/adp.se2crid.me?app=com.jkcoxson.LocalDevVPN instead.
@@ -33,9 +33,9 @@ To install SideStore, you will need:
 6. Download the iloader installer as an MSI (https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi; recommended) or as an EXE (https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe).
 7. Run the installer.
 
-###Linux
+### Linux
 > https://docs.sidestore.io/docs/installation/prerequisites
-##Installation
+## Installation
 1. Connect your iDevice to your computer using a USB cable (or a wireless pad... in my case). 
 2. Go to Applications on your computer and open iloader. Click Open when prompted. You may need to trust your computer and enter your password.
 3. Enter your Apple ID Email and password; it is case-sensitive! It does not need to be the account associated with the iDevice. Afterwards, click Login and wait until it gives a 2FA popup.
