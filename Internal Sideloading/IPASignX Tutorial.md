@@ -1,5 +1,5 @@
 # Installing Delta with IPASignX
-**This is an online signer unlike KSign which is an app. This is my Feather/Osign tutorial (https://rentry.co/delta-osign) without Feather/Osign.**
+**This is an online signer unlike KSign which is an app. This is my Feather/Osign tutorial without Feather/Osign.**
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
 3. Go to https://osign.ipasign.cc/
@@ -17,5 +17,3 @@
 14. Click the link it generates.  Scroll down and click “Install Now”. If you see that the Certificate Status is “revoked”, ignore this (because in my case, it actually worked). If you install Delta but it gives an integrity error upon clicking it, delete it and repeat the steps above using another certificate (the Truck cert worked for me).
 15. Go to System Settings → General → VPN and Device Management. Trust the enterprise app and restart your device.
 16. Click Delta; you’re done!
-
-**This tutorial was created by @quappingreal on Discord**
