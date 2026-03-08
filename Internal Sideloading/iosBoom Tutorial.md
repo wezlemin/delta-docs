@@ -1,5 +1,5 @@
 # Installing Delta via iosBoom
-**iosBoom is just IpaSignerX (https://rentry.co/delta-ipasignx). You should use that instead.**
+**iosBoom is just IpaSignX (https://rentry.co/delta-ipasignx). You should use that instead.**
 
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
