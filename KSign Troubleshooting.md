@@ -1,4 +1,4 @@
-# Notes/Troubleshooting:
+# KSign Notes/Troubleshooting
 If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO THAT SECTION!
 
 ## General Information:
