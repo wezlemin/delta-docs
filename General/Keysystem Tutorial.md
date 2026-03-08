@@ -39,5 +39,3 @@ Once you can see your key: copy it, open a Roblox game, and click Continue. Keys
 
 ### Paid Keys
 If you do not want to do the keysystem process everyday, you can buy monthly keys from the Delta shop. Go to this website: https://shop.deltaexploits.gg/ and click Buy Now.
- 
-**This guide was made by @quappingreal on Discord.**
