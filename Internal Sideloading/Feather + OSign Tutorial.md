@@ -1,7 +1,7 @@
 # Installing Delta via Feather/Osign
 
 ## Preparation
-1. Read my IPASignX tutorial (https://rentry.co/delta-ipasignx). Instead of signing the Delta IPA, sign the Feather or Osign IPA.
+1. Read my IPASignX tutorial. Instead of signing the Delta IPA, sign the Feather or Osign IPA.
 > If you want to use Feather, download this IPA: https://github.com/khcrysalis/Feather/releases/latest/download/Feather.ipa
 > If you want to use Osign, go to https://osign.ipasign.cc/. Click on Osign IPA and click Download.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
@@ -32,5 +32,3 @@
 8. Click Library and click Sign on Delta. Click Start Signing and wait.
 9. Click on the Delta in the Signed section. When prompted, click Install and wait.
 10. Once it says that Delta has completed installing, go to your home screen and wait for it to finish. Click it. You’re done!
-
-**THIS TUTORIAL IS BY @quappingreal ON DISCORD**
