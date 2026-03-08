@@ -1,6 +1,6 @@
 # Installing Delta via KSign/ESign
 
-### NOTES/TROUBLESHOOTING: https://rentry.co/delta-troubles-ksign
+### Read KSign Troubleshooting if you have any issues.
 
 ### Video Tutorials for KSign:
 https://www.youtube.com/watch?v=IpbxAlBTEjY
@@ -63,7 +63,5 @@ https://docs.deltaexploits.gg/installation/ios
 
 ### KSign Method without khoindvn
 > Why would you do this? I have no idea.
-1. Read this: https://rentry.co/delta-ipasignx until you finish Step 16. Instead of using the Delta IPA, use KSign's: https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa. You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
+1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use KSign's: https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa. You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the KSign Method section. You will need to import the .p12 and .mobileprovision files.
-
-**THIS TUTORIAL IS BY @quappingreal ON DISCORD; YOU ARE FREE TO SHARE IT.**
