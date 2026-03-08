@@ -1,4 +1,4 @@
-# Installing Delta via KSign/ESign
+# Recommended: Installing Delta via KSign/ESign
 
 ### Read KSign Troubleshooting if you have any issues.
 
