@@ -13,3 +13,5 @@ This is for when they refuse to load on **iOS**. If you are on **Android**, use 
 8. Delete the old Workspace folder (hold it and then press Delete).
 9. Click on the Workspace ZIP. It will create a Delta folder.
 10. Delete the Workspace ZIP. You're done!
+
+**Made independently; not associated with @theonlydev__**
