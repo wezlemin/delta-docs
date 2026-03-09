@@ -2,8 +2,8 @@
 ## Before you continue...
 - Do you have Roblox/Delta already installed? Delete it (then try reinstalling).
 - Did the APK download correctly? Try using another browser or a VPN!
-- Are you using the latest version of Android? Update if not (then reinstall).
-- What CPU architecture is your phone? If it is ARM32, that might be the reason (Delta sometimes isn't on ARM32).
+- Are you using the latest version of Android? Update if not (then reinstall). You should have Android 11+ at the minimum.
+- What CPU architecture is your phone (use CPU-Z to find out)? If it is ARM32, that might be the reason (Delta sometimes isn't on ARM32).
 - Are you downloading from https://deltaexploits.gg? If not, download from there and install.
 - Do you have Play Protect on (Play Store)? Disable it (then reinstall).
 - Do you have multiple profiles / a secure folder? Check if Roblox/Delta is in there.
