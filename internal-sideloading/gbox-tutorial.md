@@ -1,6 +1,4 @@
 # Installing Delta via GBox
-
-**This is an online signer. It is my Osign tutorial (https://rentry.co/delta-osign) without Osign.**
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
 3. Go to https://osign.ipasign.cc/.
