@@ -11,7 +11,7 @@ Please be aware that this is not exhaustive. Read the official Delta Docs if you
   * [IPASignX Tutorial](internal-sideloading/ipasignx-tutorial.md)
   * [AppleJr Tutorial](internal-sideloading/applejr-tutorial.md)
   * [WSFTeam Tutorial](internal-sideloading/wsfteam-tutorial.md)
-  * [WSFTeam Tutorial](internal-sideloading/gbox-tutorial.md)
+  * [GBox Tutorial](internal-sideloading/gbox-tutorial.md)
   * [iosBoom Tutorial](internal-sideloading/iosboom-tutorial.md)
 
 * External Sideloading
