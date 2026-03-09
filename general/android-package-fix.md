@@ -1,5 +1,17 @@
-# Fix "App Not Installed – Package Conflicts" on Android (No PC)
+# Fix "App Not Installed (– Package Conflicts)" on Android (No PC)
+## Before you continue...
+- Do you have Roblox/Delta already installed? Delete it (then try reinstalling).
+- Did the APK download correctly? Try using another browser or a VPN!
+- Are you using the latest version of Android? Update if not (then reinstall).
+- What CPU architecture is your phone? If it is ARM32, that might be the reason (Delta sometimes isn't on ARM32).
+- Are you downloading from https://deltaexploits.gg? If not, download from there and install.
+- Do you have Play Protect on (Play Store)? Disable it (then reinstall).
+- Do you have multiple profiles / a secure folder? Check if Roblox/Delta is in there.
+- Have you enabled "Allow from unknown sources" for Chrome? If not, enable it (then reinstall).
+- Have you tried clearing cache for Package Installer?
+- Have you tried using another package installer?
 
+## Instructions
 1. **Enable Developer Mode**
 
    * Settings → About Phone → tap **Build Number** 7 times
@@ -52,3 +64,5 @@
      ```
      adb uninstall com.roblox.client
      ```
+
+**Afterwards, try to reinstall. If you have any issues, please contact me.**
