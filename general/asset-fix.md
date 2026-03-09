@@ -1,4 +1,4 @@
-# Adding Delta Assets manually
+# Adding Delta Assets Manually
 This is for when they refuse to load on **iOS**. If you are on **Android**, use a VPN (such as ProtonVPN or Cloudflare WARP) to load the assets, then turn it off afterwards. <br>
 **DO NOT USE A VPN ON IOS OR YOUR CERTIFICATE MIGHT GET REVOKED, RESULTING IN DELTA CRASHING!**
 
