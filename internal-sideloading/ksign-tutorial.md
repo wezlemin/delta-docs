@@ -19,7 +19,7 @@
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the DNS Profile. Enter your password if prompted.
 5. On your Home Screen, a bookmark will appear. You do not need to install KSigns/ESigns from it!
 6. Go back to khoindvn.io.vn. Scroll to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). DO NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
->💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked.
+>💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked. <br>
 >💡 To save time, you could install multiple KSigns at a time.
 7. Go to your phone's Home Screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
 > If it does not appear, read Troubleshooting.
@@ -33,19 +33,19 @@
 2. Click Import Files and add your IPA file.
 3. Click the Delta IPA that appears in KSign Files and click Import to Library.
 4. Wait until Delta shows in Downloaded Apps in Library.
-> ⚠️ KSigns have their certificate bundled, so you do not need to import it. The old KSigns were updated to be like this as well. If you read the "KSign Method without khoindvn" section, do the following:
->> If you haven't already, download the Certificates ZIP by going to https://osign.ipasign.cc/, clicking "Certificates" and then clicking "Download".
->> In KSign, click on Certificates and click Import. Import the Certificate File (the .p12 file you used on the IPASignerX website) and the Provisioning File (the .mobileprovision file). Set the password to "osign" and click Save. If nothing shows, try again.
->>> If you forgot the name of the KSign you installed, check in Settings → General → VPN and Device Management.
+> ⚠️ KSigns have their certificate bundled, so you do not need to import it. The old KSigns were updated to be like this as well. If you read the "KSign Method without khoindvn" section, do the following: <br>
+>> If you haven't already, download the Certificates ZIP by going to https://osign.ipasign.cc/, clicking "Certificates" and then clicking "Download". <br>
+>> In KSign, click on Certificates and click Import. Import the Certificate File (the .p12 file you used on the IPASignX website) and the Provisioning File (the .mobileprovision file). Set the password to "osign" and click Save. If nothing shows, try again. <br>
+>>> If you forgot the name of the KSign you installed, check in Settings → General → VPN and Device Management. <br>
 
 5. Click Delta and click Sign and Install. Press Start Signing and wait. Click Install when prompted. You might need to Sign and Install separately if it does not work.
-> Make sure Not Secure Connection Warning (Settings > Safari) is DISABLED!
->⚠️ If Delta gets stuck on the Ready screen, do the following:
->> Go to the "Settings" Section of KSign.
->> Tap "Server & SSL".
->> Change "Installation Type" to "Semi-Local".
->> Click “Suspend” to close KSign. Afterwards, reopen it.
->> Try resigning + reinstalling again.
+> Make sure Not Secure Connection Warning (Settings > Safari) is DISABLED! <br>
+>⚠️ If Delta gets stuck on the Ready screen, do the following: <br>
+>> Go to the "Settings" Section of KSign. <br>
+>> Tap "Server & SSL". <br>
+>> Change "Installation Type" to "Semi-Local". <br>
+>> Click “Suspend” to close KSign. Afterwards, reopen it. <br>
+>> Try resigning + reinstalling again. <br>
 6. Go to your device's home screen and wait until the new KSign app installs, which will turn into a Delta. You can now click it and play Roblox.
 
 ## ESign Method
