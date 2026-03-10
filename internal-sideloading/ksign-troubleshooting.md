@@ -2,18 +2,15 @@
 If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO THAT SECTION!
 
 ## General Information:
-DO NOT DELETE THE DNS OR USE A VPN. IT IS ALSO RECOMMENDED TO NOT DELETE THE KSIGN AS YOU WILL NEED IT WHEN DELTA UPDATES.
+- DO NOT DELETE THE DNS OR USE A VPN. IT IS ALSO RECOMMENDED TO NOT DELETE THE KSIGN AS YOU WILL NEED IT WHEN DELTA UPDATES.
+- If you open Roblox and it gives an update pop-up, join the Delta Discord server (https://discord.com/invite/deltax) and wait until the devs ping about an update for Delta. Once they ping, delete Delta, download the new IPA, then import it in KSign and sign it.
+- If you click on Delta/KSign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the KSign/ESign. Afterwards, try another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
+- If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Settings > Screen Time > Content & Privacy Restrictions > Turn off the toggle.
+- Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
 
-If you open Roblox and it gives an update pop-up, join the Delta Discord server (https://discord.com/invite/deltax) and wait until the devs ping about an update for Delta. Once they ping, delete Delta, download the new IPA, then import it in KSign and sign it.
-
-If you click on Delta/KSign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the KSign/ESign. Afterwards, try another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
-
-If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Settings > Screen Time > Content & Privacy Restrictions > Turn off the toggle.
-
-Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
-
-## If you cannot access Khoindvn:
-> Use this website: https://khoindvn.pages.dev/ (or read on...)
+## What to do if you cannot access khoindvn
+> Use this website: https://khoindvn.pages.dev/ (or read on...) <br>
+> List of api.khoindvn.io.vn: https://pastebin.com/raw/4dMmJBs3
 
 - If you cannot access https://khoindvn.io.vn, try these:
 > Use mobile/cellular data <br>
@@ -29,9 +26,9 @@ Note for KSign: You can import Delta into Library immediately (this is not used 
 > itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/48bhl.plist <br>
 > itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/3z8yi.plist
 
-- If you cannot access Khoindvn as a whole, you can try Osign or the AppleJr signer. 
+- If you cannot access Khoindvn as a whole, you could try using another signer.
 
-## If NONE of the KSigns or ESigns work (because they are all *REVOKED*/*BLACKLISTED*), you can do one of the following: 
+## What to do if NONE of the KSigns or ESigns work (because they are all *REVOKED*/*BLACKLISTED*)
 - You can use Direct Install if it is not down/broken.
 - You can sideload with a computer (https://sidestore.io, https://sideloadly.io).
 - If you have a computer, and your phone is running iOS 17.0 - iOS iOS 18.0.1, BlacklistBeGone (https://github.com/jailbreakdotparty/BlacklistBeGone) might work for you.
