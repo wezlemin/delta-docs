@@ -1,15 +1,23 @@
-# Fix "App Not Installed (– Package Conflicts)" on Android (No PC)
+# Fix "App Not Installed" on Android (No PC)
+## Errors
+- 1: "App not installed as package appears to be invalid"
+- 2: "App not installed as package conflicts with an existing package"
+- 3: "App not installed as app is not compatible with your phone"
+- 4: "There was a problem parsing the package"
+
 ## Before you continue...
-- Do you already have Roblox or Delta installed? Try deleting them first, then reinstall.
-- Are you using the latest version of Android? If not, update it and then reinstall. You should have Android 11 or higher at a minimum.
-- Are you downloading it from https://deltaexploits.gg? If not, download and install it from there.
-- Did the APK download correctly? Try downloading it using another browser or a VPN.
-- Have you enabled “Allow from unknown sources” for Chrome? If not, enable it and try reinstalling.
-- Is Play Protect enabled in the Play Store? Try disabling it, then reinstall.
-- Do you have multiple profiles or a Secure Folder on your device? Check if Roblox or Delta was installed there.
-- What is your phone’s CPU architecture? (You can use CPU-Z to find out.) If it is ARM32, that might be the issue, since Delta sometimes doesn’t support ARM32.
-- Have you tried clearing the cache for the package installer?
-- Have you tried using a different package installer?
+- 2/1: Do you already have Roblox or Delta installed? Try deleting them first, then reinstall.
+- 1/4/3: Are you using the latest version of Android? If not, update it and then reinstall. You should have Android 11 or higher at a minimum.
+- 1/4/3: Are you downloading it from https://deltaexploits.gg? If not, download and install it from there.
+- 1/4: Did the APK download correctly? Try downloading it using another browser or a VPN.
+- 1/3: Have you enabled “Allow from unknown sources” for Chrome? If not, enable it and try reinstalling.
+- 1/3: Is Play Protect enabled in the Play Store? Try disabling it, then reinstall.
+- 1/2: Do you have multiple profiles or a Secure Folder on your device? Check if Roblox or Delta was installed there.
+- 3/1/2: What is your phone’s CPU architecture? (You can use CPU-Z to find out.) If it is ARM32, that might be the issue, since Delta sometimes doesn’t support ARM32.
+- 1/4: Have you tried clearing the cache for the package installer?
+- 1/4: Have you tried using a different package installer?
+
+If none of the solutions worked, you may still have Roblox installed, even if it seems uninstalled. Here is the solution:
 
 ## Instructions
 1. **Enable Developer Mode**
