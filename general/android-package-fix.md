@@ -52,6 +52,7 @@ If none of the solutions worked, you may still have Roblox installed, even if it
 
    * Developer Options → **Wireless Debugging → ON + Allow the connection**
    * Tap **Pair device with pairing code**
+   * You need to make sure Termux or Settings is in split view or in a floating window for the next step.
 
 6. **Pair Termux/ADB with Your Device**
 
