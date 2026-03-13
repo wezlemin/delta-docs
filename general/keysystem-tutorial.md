@@ -37,7 +37,7 @@ Once you can see your key, copy it, open a Roblox game, and click Continue. Keys
 * LootLabs: If tasks do not complete/a timer does not show, try installing a VPN from the Play/App Store (for example: ProtonVPN or Cloudflare WARP). Enable it, then reload the key system page.
 * If Linkvertise gives a 1-hour restriction, try clearing cookies, enabling a VPN, and reloading the page.
 * If the keysystem link does not copy, try using a VPN. This also goes for if Platorelay does not load.
-* If clicking Receive Key gives a cache error, clear your cache (just check in your phone’s settings for the app). You could also reinstall Delta.
+* If clicking Receive Key gives a "Failed to clear cache" error, clear your cache (just check in your phone’s settings for the app). You could also reinstall Delta or use a VPN/
 * Open the keysystem link in an incognito window.
 * If auth.platorelay.com displays an error, restart the key system using the original link you copied.
 * If one browser/device doesn't work, try a different browser (Brave, Chrome, Firefox, Safari, etc.) or device.
@@ -45,4 +45,4 @@ Once you can see your key, copy it, open a Roblox game, and click Continue. Keys
 
 ### Paid Keys
 
-If you do not want to do the keysystem process everyday, you can buy monthly keys from the Delta shop. Go to https://shop.deltaexploits.gg/ and click Buy Now. Note that they may be out of stock. You could also buy Linkvertise Premium or Unlock-r to do the key system quicker.
+If you do not want to complete the keysystem process every day, you can buy monthly keys from the Delta shop. Go to https://shop.deltaexploits.gg/ and click Buy Now. Note that they may be out of stock. You could also buy Linkvertise Premium or Unlock-r to do the key system quicker.
