@@ -23,8 +23,9 @@
 
 3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click here (https://github.com/Nyasami/getUDID-JS/releases/download/1.0.0/signed\_khoindvn\_fullchain.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the DNS Profile. Enter your password if prompted.
-5. On your Home Screen, a bookmark will appear. You do not need to install KSigns/ESigns from it!
-6. Go back to khoindvn.io.vn. Scroll to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). DO NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
+5. If required, go to Settings > General > About > Certificate Trust Settings and toggle the switch on for AAA certificates.
+6. On your Home Screen, a bookmark will appear. You do not need to install KSigns/ESigns from it!
+7. Go back to khoindvn.io.vn. Scroll to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). DO NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
 
 > 💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked.\
 > 💡 To save time, you could install multiple KSigns at a time.
