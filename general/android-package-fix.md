@@ -72,3 +72,5 @@ If none of the solutions worked, you may still have Roblox installed, even if it
 > Try running `adb shell pm uninstall --user 0 com.roblox.client` instead if the error still appears.
 
 > Run `adb shell pm list users` to see all the profiles on your phone, in case you have others you do not know about. Change 0 to the profile number, and the command for each profile.
+
+**NOTE: You can also run these commands on a computer if you install [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools). Connect your computer to your phone.**
