@@ -38,6 +38,8 @@
 4. Go to the My Apps section. Click the "7 DAYS" counter next to SideStore.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
 5. Click on the + icon, then import the Delta IPA. You can download it from https://deltaexploits.gg. Keep App Extensions. Then wait... it may take a while to finish importing.
+> Due to a Delta update, you will need to sign the IPA with a certificate before continuing. You can use IPASignX to do this. <br>
+> Instead of clicking "Install Now", click "Download IPA".
 5. Check your Home Screen; you now have Delta!
 
 ## NOTES:
