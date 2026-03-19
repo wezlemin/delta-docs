@@ -3,10 +3,11 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 
 ## General Information:
 - DO NOT DELETE THE DNS OR USE A VPN. IT IS ALSO RECOMMENDED TO NOT DELETE THE KSIGN AS YOU WILL NEED IT WHEN DELTA UPDATES.
-- If you open Roblox and it gives an update pop-up, join the Delta Discord server (https://discord.com/invite/deltax) and wait until the devs ping about an update for Delta. Once they ping, delete Delta, download the new IPA, then import it in KSign and sign it.
-- If you click on Delta/KSign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the KSign/ESign. Afterwards, try another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
+- If you open Roblox and it gives an update pop-up, join the Delta Discord server (https://discord.com/invite/deltax) and wait until the devs ping about an update for Delta. Once they ping, delete Delta (from App Library), download the new IPA, then import it in KSign and sign and install it.
+- If you click on Delta/KSign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the KSign/ESign. Afterwards, install another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
 - If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Settings > Screen Time > Content & Privacy Restrictions > Turn off the toggle.
 - Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
+- If you get an extraction error when using KSign, please ensure the IPA downloaded correctly (it should not be 0 bytes, it should be 100MB+). If you did download it correctly, go to KSign Settings > Archive & Extraction > Switch the extraction library. Afterwards, close the app and reopen it, then try to reimport.
 
 ## What to do if you cannot access khoindvn
 > Use this website: https://khoindvn.pages.dev/ (or read on...) <br>
@@ -14,7 +15,8 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 
 - If you cannot access https://khoindvn.io.vn, try these:
 > Use mobile/cellular data <br>
-> Use a personal hotspot <br>
+> Disconnect and reconnect to Wi-Fi <br>
+> Use a hotspot created on another phone <br>
 > Go to https://techybuff.com/ksign and see if you can download the KSigns there.
 
 - If it is just the KSign/ESign downloads that do not work (https://api.khoindvn.io.vn), right-click one (on khoindvn.io.vn or techybuff.com/ksign) and copy the link. Afterwards, go to https://www.view-page-source.com/, paste the link and look at its output. Here are some examples:
