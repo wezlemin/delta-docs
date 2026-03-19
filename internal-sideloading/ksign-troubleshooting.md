@@ -14,11 +14,11 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 > List of api.khoindvn.io.vn: https://pastebin.com/raw/4dMmJBs3
 
 - If you cannot access https://khoindvn.io.vn, try these:
-> Use mobile/cellular data <br>
+> Use mobile/cellular data (make sure Wi-Fi is off) <br>
 > Disconnect and reconnect to Wi-Fi <br>
 > Connect to another device's hotspot <br>
 > Use another browser (such as Brave) <br>
-> Go to https://techybuff.com/ksign and see if you can download the KSigns there.
+> Go to https://techybuff.com/ksign and see if you can download the KSigns there
 
 - If it is just the KSign/ESign downloads that do not work (https://api.khoindvn.io.vn), right-click one (on khoindvn.io.vn or techybuff.com/ksign) and copy the link. Afterwards, go to https://www.view-page-source.com/, paste the link and look at its output. Here are some examples:
 > Failed to fetch URL: failed to fetch URL: Get "itms-services:?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/48bhl.plist": unsupported protocol scheme "itms-services" <br>
