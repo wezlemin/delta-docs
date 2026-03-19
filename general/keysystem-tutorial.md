@@ -40,6 +40,8 @@ Once you can see your key, copy it, open a Roblox game, paste it in the box, and
 * If Linkvertise gives a 1-hour restriction, try clearing cookies, enabling a VPN (ANDROID), and reloading the page.
 * (ANDROID) If the keysystem link does not copy, try using a VPN. This also goes for if Platorelay does not load.
 * Open the keysystem link in an incognito window.
+* Disconnect and reconnect to Wi-Fi.
+* Use mobile/cellular data (make sure Wi-Fi is off).
 * If auth.platorelay.com displays an error, restart the key system using the original link you copied.
 * If one browser/device doesn't work, try a different browser (Brave, Chrome, Firefox, Safari, etc.) or device.
 * Use a browser emulator (https://browser.lol).
