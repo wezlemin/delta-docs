@@ -1,5 +1,6 @@
 # Keysystem Tutorial
 > Video Tutorial: https://docs.deltaexploits.gg/licensekey/
+
 To use Delta, you need to enter a license key. You can get one by completing the key system. This supports the developers of Delta, as the advertisements are how they monetise the project. Follow the steps below:
 
 1. Join a Roblox game. Perhaps you could join one like "a true baseplate" since the Delta UI might load faster.
