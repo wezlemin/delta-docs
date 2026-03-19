@@ -29,7 +29,8 @@
 
 > 💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked.\
 > 💡 To save time, you could install multiple KSigns at a time.
-> 💡 Try all the KSigns! Do not just try a few.
+> 💡 Attempt to install all the KSigns/ESigns! Do not just try a few and give up because all of them were revoked.
+> ⚠️ If no application appears on your homescreen, read KSign Troubleshooting.
 
 7. Go to your phone's Home Screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
 
