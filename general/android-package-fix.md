@@ -22,7 +22,7 @@
 
 If none of the solutions worked, you may still have Roblox installed, even if it seems uninstalled. Here is the solution:
 
-## Instructions
+## Instructions (NO PC)
 
 1. **Enable Developer Mode**
    * Settings → About Phone → tap **Build Number** 7 times
@@ -73,4 +73,57 @@ If none of the solutions worked, you may still have Roblox installed, even if it
 
 > Run `adb shell pm list users` to see all the profiles on your phone, in case you have others you do not know about. Change 0 to the profile number, and the command for each profile.
 
-**NOTE: If you do not want to use Termux, you can run the ```adb``` commands on a computer if you install [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools). Connect your computer to your phone. You may need to add ./ before the commands for it to work.**
+## Instructions (With PC)
+
+If you do not want to use Termux, you can run the `adb` commands on a computer instead.
+
+1. **Download ADB (Platform Tools)**
+
+   * Go to [https://developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools)
+   * Download and extract it
+
+2. **Enable Developer Mode**
+
+   * Settings → About Phone → tap **Build Number** 7 times
+
+3. **Enable USB Debugging**
+
+   * Developer Options → **USB Debugging → ON**
+
+4. **Connect Your Phone**
+
+   * Plug your phone into your computer using a USB cable
+   * Allow the **USB debugging prompt**
+
+5. **Open a Terminal in Platform Tools**
+
+   * Open Command Prompt / PowerShell / Terminal inside the extracted folder
+> For the following commands on MacOS/Linux, you will need to add ./ before adb.
+
+6. **Check Connection**
+
+   ```
+   adb devices
+   ```
+
+   * Accept the prompt on your phone if it appears
+
+7. **Uninstall the Conflicting App**
+
+   ```
+   adb uninstall com.roblox.client
+   ```
+
+   If that does not work:
+
+   ```
+   adb shell pm uninstall --user 0 com.roblox.client
+   ```
+
+8. **(Optional) Check Other Users**
+
+   ```
+   adb shell pm list users
+   ```
+
+   * Replace `0` with the correct user ID if needed
