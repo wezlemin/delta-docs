@@ -22,10 +22,10 @@
 > ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the khoindvn tab) to return to khoindvn.
 
 3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click here (https://github.com/Nyasami/getUDID-JS/releases/download/1.0.0/signed\_khoindvn\_fullchain.mobileconfig).
-4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the DNS Profile. Enter your password if prompted.
+4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings > General > About > Certificate Trust Settings and toggle the switch on for AAA certificates.
 6. On your Home Screen, a bookmark will appear. You do not need to install KSigns/ESigns from it!
-7. Go back to khoindvn.io.vn. Scroll to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). DO NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
+7. Go back to https://khoindvn.io.vn. Scroll down to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). YOU SHOULD NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
 
 > 💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked.\
 > 💡 To save time, you could install multiple KSigns at a time.
@@ -34,7 +34,7 @@
 
 > If it does not appear, read Troubleshooting.
 
-8. Go to Settings → General → VPN and Device Management. Trust the enterprise app and restart.
+8. Go to Settings → General → VPN and Device Management. Trust the enterprise app (and restart if required).
 9. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
 10. Use one of the methods below (depending on if you are using KSign or ESign):
 
@@ -55,7 +55,7 @@
 > >
 > > > If you forgot the name of the KSign you installed, check in Settings → General → VPN and Device Management.<br>
 
-5. Click Delta and click Sign and Install. Press Start Signing and wait. Click Install when prompted. You might need to Sign and Install separately if it does not work.
+5. Click Delta (in Library) and click Sign and Install. Press Start Signing and wait (do not exit out of the application). Click Install when prompted. You might need to Sign and Install separately if it does not work.
 
 > Make sure Not Secure Connection Warning (Settings > Safari) is DISABLED!\
 > ⚠️ If Delta gets stuck on the Ready screen, do the following:<br>
