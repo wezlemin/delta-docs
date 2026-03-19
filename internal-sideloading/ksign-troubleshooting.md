@@ -16,7 +16,7 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 - If you cannot access https://khoindvn.io.vn, try these:
 > Use mobile/cellular data <br>
 > Disconnect and reconnect to Wi-Fi <br>
-> Use a hotspot created on another phone <br>
+> Connect to another device's hotspot <br>
 > Go to https://techybuff.com/ksign and see if you can download the KSigns there.
 
 - If it is just the KSign/ESign downloads that do not work (https://api.khoindvn.io.vn), right-click one (on khoindvn.io.vn or techybuff.com/ksign) and copy the link. Afterwards, go to https://www.view-page-source.com/, paste the link and look at its output. Here are some examples:
