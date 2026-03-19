@@ -29,6 +29,7 @@
 
 > 💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked. <br>
 > 💡 To save time, you could install multiple KSigns at a time. <br>
+
 > 💡 Attempt to install all the KSigns/ESigns! Do not just try a few and give up because all of them were revoked. <br>
 > ⚠️ If no application appears on your homescreen, read KSign Troubleshooting.
 
