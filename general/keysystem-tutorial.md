@@ -2,10 +2,10 @@
 
 To use Delta, you need to enter a license key. You can get one by completing the key system. This supports the developers of Delta, as the advertisements are how they monetise the project. Follow the steps below:
 
-1. Join a Roblox game.
+1. Join a Roblox game. Perhaps you could join one like "a true baseplate" since the Delta UI might load faster.
 2. Wait for the Delta UI to load, and click Receive Key once or twice. It will paste a link to your clipboard or open Platorelay directly.
 
-> For iOS, you will get shown two tasks upon clicking Receive Key. Click both, then wait 30 seconds. Afterwards, click "Click to continue"
+> For iOS, you will get shown two tasks upon clicking Receive Key. Click both buttons, then wait 30 seconds. Afterwards, click "Click to continue"
 
 3. If it did not automatically open your browser (Chrome, Safari, etc.), do it yourself. Paste the Platorelay link in the address bar and enter.
 4. Wait 5 seconds, then click LootLabs/Linkvertise and proceed. Ignore any popups; just swipe back/return to the Platorelay page.
@@ -13,7 +13,7 @@ To use Delta, you need to enter a license key. You can get one by completing the
 
 ## LootLabs
 
-1. You’ll see a page with several tasks. Click each task, then return to the page. You do not need to actually complete the external tasks.
+1. You’ll see a page with several tasks (if you see Unlock-r at the top, just scroll down). Click a task, then return to the LootLabs page. Do this for all tasks. You do not need to actually complete the external tasks.
 2. Each task should show a timer that counts down to 0. If a timer doesn’t appear immediately, wait — sometimes tasks finish at different times.
 3. When all task timers hit 0, they should complete. If they do not, reload the page and try again.
 4. Click the Unlock Content button and get your key.
