@@ -1,5 +1,5 @@
 # Autoexecuting on iOS
-> Android Tutorial: https://www.youtube.com/watch?v=dddPBPXdvpU
+> Android/iOS Tutorial (using ZArchiver): https://www.youtube.com/watch?v=dddPBPXdvpU
 
 ## Instructions
 1. Open a game in Delta. If you have not already, complete the keysystem.
