@@ -19,6 +19,7 @@
   * [Autoexecute (iOS)](general/autoexecution.md)
   * [Turning Toggles Off](general/toggles-off.md)
   * [Delta Asset Loading Fix](general/asset-fix.md)
+  * [Changing The Delta Icon](general/delta-icon-change.md)
   * [Delta Websites](general/delta-websites.md)
   * [Making A Direct Install](general/making-a-direct-install.md)
   * [Android Package Fix](general/android-package-fix.md)
