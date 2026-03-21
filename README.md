@@ -1,5 +1,5 @@
 # Unofficial Delta Docs
-This website was created by @quappingreal (Discord), also known as [wezlemin](https://github.com/wezlemin) on GitHub. It contains information not found in the [official Delta Docs](https://docs.deltaexploits.gg/). To view the source for this website, click [here](https://github.com/wezlemin/delta-docs/).
+This website (unofficial Delta Docs) was created by @quappingreal (Discord), also known as [wezlemin](https://github.com/wezlemin) on GitHub. It contains information not found in the [official Delta Docs](https://docs.deltaexploits.gg/). To view the source for this website, click [here](https://github.com/wezlemin/delta-docs/).
 
 Please be aware that this website is not exhaustive. Read the official Delta Docs if you cannot find what you are looking for here.
 
