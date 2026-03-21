@@ -1,5 +1,5 @@
 # Changing the Delta Icon
-> Make sure you have the ZArchiver app from the Play Store. You can also do this with iOS, but the steps may be slightly different.
+> Make sure you have the ZArchiver app from the Play Store. You can also do this with iOS, but the steps may be slightly different. You may want to use the Files app instead.
 1. Download an image that will serve as the new icon. It should be a square or circle with a background.
 2. Join a Roblox game.
 3. Wait until the Delta UI loads. Exit out of Roblox afterwards.
