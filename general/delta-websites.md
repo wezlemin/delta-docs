@@ -4,7 +4,7 @@
 
 * Main: [https://deltaexploits.gg/](https://deltaexploits.gg/)
 * Alternative: [https://deltaexploits.dev/](https://deltaexploits.dev/)
-* Direct Install (unofficial) [https://delta.bz/](https://delta.bz/)
+* Direct Install (unofficial): [https://delta.bz/](https://delta.bz/)
 
 ## iOS Download
 
