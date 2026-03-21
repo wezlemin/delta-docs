@@ -3,9 +3,11 @@
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
 3. Go to https://osign.ipasign.cc/
 4. Click on Certificates and click Download.
-5. Go to the Files app on your device and compress the Certificates ZIP. Afterwards, go back to the Osign website.
-6. Click on DNS Config and click Allow for the configuration profile.
-> This is for Osign. You should still have an anti-revoke DNS though for WSFTeam (it can be WSFTeam's own or khoindvn's, for example).
+5. Go to the Files app on your device and compress the Certificates ZIP. Afterwards, go to https://wsfteam.xyz/#configprofiles.
+6. Click on a profile then click Allow for the configuration profile.
+> For a comparison of the profiles, go to https://wsfteam.xyz/#guide and scroll down to "Which Config Profile do I choose?" <br>
+
+> You can also use Osign's or khoindvn's anti-revoke DNS.
 7. Go to System Settings → General → VPN and Device Management. Click Install on the DNS profile, enter your password when prompted, click Next and click Install to confirm.
 8. Go to https://wsfteam.xyz/#signer and click .ipa. Select the Delta IPA you downloaded.
 9. Click .mobileprovision. Click Choose File and find the Certificates folder. Afterwards, click on of the folders inside and select the mobileprovision file.
