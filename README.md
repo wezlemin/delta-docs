@@ -4,7 +4,7 @@ This website was created by @quappingreal (Discord), also known as [wezlemin](ht
 Please be aware that this website is not exhaustive. Read the official Delta Docs if you cannot find what you are looking for here.
 
 ## What is Delta?
-[Delta](https://deltaexploits.gg) is a free developer tool for [Roblox](https://roblox.com) that can run most available Roblox scripts. It supports Android and iOS devices natively, as well as computers via emulators. Delta is not a virus, but it may be flagged by security tools such as [VirusTotal](https://virustotal.com) or [Triage](https://tria.ge/) as a Trojan due to its behavior.
+[Delta](https://deltaexploits.gg) is a free developer tool for [Roblox](https://roblox.com) that can run most available Roblox Luau scripts. It supports Android and iOS devices natively, as well as computers via emulators. Delta is not a virus, but it may be flagged by security tools such as [VirusTotal](https://virustotal.com) or [Triage](https://tria.ge/) as a Trojan due to its behavior.
 
 It is usually undetected, meaning the risk of a Roblox account ban is low under normal circumstances. However, you can still be banned from specific games, especially if you use detected scripts that trigger a game's anti-cheat or honeypots.
 
@@ -14,4 +14,4 @@ Scripts for Delta can be found on [ScriptBlox](https://scriptblox.com). You can 
 
 While exploiting itself is not illegal, it does violate Roblox’s terms of service. As a result, you may be banned from individual games or from Roblox entirely for using scripts, as mentioned earlier.
 
-For the latest information, join Delta's Discord servers (https://discord.gg/deltax, https://discord.gg/deltacommunity).
+For the latest information, join Delta's official Discord servers ([here](https://discord.gg/deltax) and [here](https://discord.gg/deltacommunity)).
