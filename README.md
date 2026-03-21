@@ -1,4 +1,3 @@
-# Delta Docs (Unofficial)
 # Unofficial Delta Docs
 This website was created by @quappingreal (Discord), also known as [wezlemin](https://github.com/wezlemin) on GitHub. It contains information not found in the [official Delta Docs](https://docs.deltaexploits.gg/). To view the source for this website, click [here](https://github.com/wezlemin/delta-docs/).
 
