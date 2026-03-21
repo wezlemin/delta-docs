@@ -8,7 +8,9 @@ To use Delta, you need to enter a license key. You can get one by completing the
 
 > For iOS, you will get shown two tasks upon clicking Receive Key. Click both buttons, then wait 30 seconds. Afterwards, click "Click to continue". <br>
 
-> If clicking Receive Key gives a "Failed to clear cache" error, clear your cache (just check in your phone’s settings for the app). You could also reinstall Delta or use a VPN.
+> If clicking Receive Key gives a "Failed to clear cache" error, clear your cache (just check in your phone’s settings for the app. For me, I held the Roblox icon in my phone's App Library. I clicked App info, then clicked Storage usage. Afterwards, I could just click Clear cache). You could also use a VPN or reinstall Delta to get rid of the error. <br>
+
+>> Be cautious if you are using iOS, as the first two options might not work and using a VPN might revoke the certificate that Delta (and your signer) are using. This will cause Delta (and your signer) to crash upon opening, requiring you to reinstall it with another certificate.
 3. If it did not automatically open your browser (Chrome, Safari, etc.), do it yourself. Paste the Platorelay link in the address bar and enter.
 4. Wait 5 seconds, then click LootLabs/Linkvertise and proceed. Ignore any popups; just swipe back/return to the Platorelay page.
 5. Complete the key system steps (LootLabs has one checkpoint, Linkvertise have two checkpoints). See details below for LootLabs and Linkvertise.
