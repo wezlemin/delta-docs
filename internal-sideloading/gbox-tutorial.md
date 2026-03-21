@@ -5,7 +5,7 @@
 4. Click on Certificates and click Download.
 5. Go to the Files app on your device and compress the Certificates ZIP. Afterwards, go back to the Osign website.
 6. Click on DNS Config and click Allow for the configuration profile.
-> This is for Osign. You should still have an anti-revoke DNS though for GBox (it can be khoindvn's, for example).
+> This is Osign's DNS profile. You can also use other ones like khoindvn's or WSFTeam's.
 7. Go to System Settings → General → VPN and Device Management. Click Install on the DNS profile, enter your password when prompted, click Next and click Install to confirm.
 8. Go to https://gbox.run/tool/sign and click p12 Format. Click Choose File and find the Certificates folder. Afterwards, click on of the folders inside and select the p12 file.
 9. Click mobileprovision Format. Click Choose File and find the Certificates folder. Afterwards, click on the folder you used for p12 Format and select the mobileprovision file.
