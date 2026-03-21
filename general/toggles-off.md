@@ -50,4 +50,4 @@
 ```
 12. Click the File Icon at the top right to save.
 13. Go back and change the other two toggles if you want to (in the same way). That is all!
-> Note: When Delta updates, you will need to update the "disableantiscam" file as its contents will reset.
+> Note: When Delta updates, you will need to update the "allowrobux" file as its contents will reset.
