@@ -14,19 +14,18 @@
 7. The options should now be disabled.
 
 ## ZArchiver Disable (Android)
-> Make sure you have the ZArchiver app from the Play Store. You can also do this with iOS, but the steps may be slightly different.
 1. Join a Roblox game.
 2. Wait until the Delta UI loads. Exit out of Roblox afterwards.
-1. Open ZArchiver.
-2. Go to 0/storage/emulated.
-3. Click on the Delta folder.
-4. Click on "Internals".
-5. Click on "Secured".
-6. Click on the user_id file. Open with ZArchiver Text.
-7. Copy the User ID that is in the file, then exit.
-9. Click on allowrobux/allowteleports/disableantiscam (depending on which you want to disable). Open with ZArchiver text.
-10. If it is not set already, change "user_id":"" to "user_id":"THE USER YOU COPIED IN STEP 7".
-11. Change "allowed_games":"" to "allowed_games":"*".
+3. Open ZArchiver. If you do not have it, install it from the Play Store.
+4. Go to 0/storage/emulated.
+5. Click on the Delta folder.
+6. Click on "Internals".
+7. Click on "Secured".
+8. Click on the user_id file. Open with ZArchiver Text.
+9. Copy the User ID that is in the file, then exit.
+10. Click on allowrobux/allowteleports/disableantiscam (depending on which you want to disable). Open with ZArchiver text.
+11. If it is not set already, change "user_id":"" to "user_id":"THE USER YOU COPIED IN STEP 7".
+12. Change "allowed_games":"" to "allowed_games":"*".
 > Example:
 ```json
 {
@@ -48,6 +47,6 @@
   "version_num": 711
 }
 ```
-12. Click the File Icon at the top right to save.
-13. Go back and change the other two toggles if you want to (in the same way). That is all!
+13. Click the File Icon at the top right to save.
+14. Go back and change the other two toggles if you want to (in the same way). That is all!
 > Note: When Delta updates, you will need to update the "allowrobux" file as its contents will reset.
