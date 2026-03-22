@@ -2,7 +2,7 @@
 
 ## Preparation
 1. Read my IPASignX (or WSFTeam) tutorial. Instead of signing the Delta IPA, sign the Feather or Osign IPA.
-> If you want to use Feather, download this IPA: https://github.com/khcrysalis/Feather/releases/latest/download/Feather.ipa
+> If you want to use Feather, download this IPA: https://github.com/khcrysalis/Feather/releases/latest/download/Feather.ipa <br>
 > If you want to use Osign, go to https://osign.ipasign.cc/. Click on Osign IPA and click Download.
 2. Download the Delta IPA by going to https://deltaexploits.gg. Use Safari.
 
