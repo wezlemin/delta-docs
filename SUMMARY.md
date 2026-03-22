@@ -4,6 +4,7 @@
 * [Internal Sideloading](internal-sideloading/README.md)
   * [KSign Tutorial (Recommended)](internal-sideloading/ksign-tutorial.md)
   * [KSign Troubleshooting](internal-sideloading/ksign-troubleshooting.md)
+  * [FlareStore Tutorial](internal-sideloading/flarestore-tutorial.md)
   * [Feather + OSign Tutorial](internal-sideloading/feather-osign-tutorial.md)
   * [IPASignX Tutorial](internal-sideloading/ipasignx-tutorial.md)
   * [AppleJr Tutorial](internal-sideloading/applejr-tutorial.md)
