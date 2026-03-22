@@ -29,3 +29,4 @@
 26. Click the back button, then click on the Delta IPA. Click Sign, then click the green Sign button and click Agree. Wait until it finishes unpacking, signing and packing.
 27. Click Install when the Signed Successfully popup shows up. When prompted by o.gbox.run, click Install. Wait for it to finish loading.
 28. That is all! Click Back to View and you should see Delta installing. Once it finishes, you can play.
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it into GBox, then sign and install it with a certificate.
