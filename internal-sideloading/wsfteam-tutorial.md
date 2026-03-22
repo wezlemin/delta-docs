@@ -17,6 +17,7 @@
 13. Wait for the IPA to Sign. Click Open when prompted, and then click Install. If you install Delta but it gives an integrity error upon clicking it, delete it and repeat the steps above using another certificate (the Truck cert worked for me).
 15. Go to System Settings → General → VPN and Device Management. Trust the enterprise app and restart your device.
 16. Click Delta; you’re done!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it to WSFTEAM, then sign and install it with a certificate.
 
 ## WSF Portal Method
 Instead of signing the Delta IPA, you can just sign the WSF Portal IPA instead. After you sign it and trust it, do this:
@@ -31,3 +32,4 @@ Instead of signing the Delta IPA, you can just sign the WSF Portal IPA instead. 
 9. Wait for it to import, then click Sign on the Delta that appears.
 10. Click Start Signing and wait. Click Install when prompted.
 11. Once it says it's completed, just click Open and check your home screen. You can now click Delta and use it!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it into Portal, then sign and install it.
