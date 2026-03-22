@@ -2,6 +2,7 @@
 > Android/iOS Tutorial (using ZArchiver): https://www.youtube.com/watch?v=dddPBPXdvpU
 
 ## Instructions
+> In Delta's settings (cog icon), make sure "Auto Execute" is enabled!
 1. Open a game in Delta. If you have not already, complete the keysystem.
 2. Click the icon of the house in the Delta GUI.
 3. Click Upload, then enter a title for the script.
