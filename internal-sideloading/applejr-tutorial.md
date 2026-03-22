@@ -9,4 +9,4 @@
 8. Wait for the app to install. Click on Delta and make sure it does not give an integrity error (if it does, try resigning with a different certificate).
 9. Go to System Settings → General → VPN and Device Management. Trust the enterprise app and restart your device.
 10. Click Delta; you’re done!
-
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, upload it to AppleJR, then re-install it with a certificate.
