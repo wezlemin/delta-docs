@@ -16,3 +16,4 @@
 14. Click the link it generates.  Scroll down and click “Install Now”. If you see that the Certificate Status is “revoked”, ignore this (because in my case, it actually worked). If you install Delta but it gives an integrity error upon clicking it, delete it and repeat the steps above using another certificate (the Truck cert worked for me).
 15. Go to System Settings → General → VPN and Device Management. Trust the enterprise app and restart your device.
 16. Click Delta; you’re done!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it to IPASignX, then sign and install it with a certificate.
