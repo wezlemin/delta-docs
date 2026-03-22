@@ -12,3 +12,4 @@
 9. Go to your device's homescreen and wait for Delta to finish installing. If it gives an integrity error upon clicking it, delete it and repeat the steps above using another certificate (the Truck cert worked for me).
 10. Go to System Settings → General → VPN and Device Management. Trust the enterprise app and restart your device.
 11. Click Delta; you’re done!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it to iosBoom, then sign and install it with a certificate.
