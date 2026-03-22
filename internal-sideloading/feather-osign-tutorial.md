@@ -20,6 +20,7 @@
 >> Fully close and reopen Feather.
 >> Try reinstalling again.
 7. Once it says that Delta has completed installing, go to your home screen and wait for it to finish. Click it. You’re done!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it into Feather, then sign and install it.
 
 ## Continuing with Osign
 1. Click on the Osign app and click the plus (+) button. Click Import Files.
@@ -32,3 +33,4 @@
 8. Click Library and click Sign on Delta. Click Start Signing and wait.
 9. Click on the Delta in the Signed section. When prompted, click Install and wait.
 10. Once it says that Delta has completed installing, go to your home screen and wait for it to finish. Click it. You’re done!
+> When Delta updates, delete Delta. Afterwards, download the latest IPA, import it into Osign, then sign and install it.
