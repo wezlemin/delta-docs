@@ -5,7 +5,7 @@
 ## UI Disable
 > This only applies for one game. You must do these steps for every game you want to have the options off.
 1. Remove or disable any scripts in your executor’s auto-execute (autoexec) folder.  
-   > This prevents scripts from automatically running again when you rejoin.
+> This prevents scripts from automatically running again when you rejoin.
 2. Join the Roblox game where you want to disable the toggles. Do not execute anything.
 3. Wait for the Delta UI to load (this may take a few seconds), then click the Delta icon and open settings (cog icon).
 4. Toggle OFF the options you want to disable.
