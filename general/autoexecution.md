@@ -1,5 +1,5 @@
 # Autoexecuting on iOS
-> Android/iOS Tutorial (using ZArchiver): https://www.youtube.com/watch?v=dddPBPXdvpU
+> Android Tutorial (using ZArchiver): https://www.youtube.com/watch?v=dddPBPXdvpU
 
 ## Instructions
 > In Delta's settings (cog icon), make sure "Auto Execute" is enabled!
