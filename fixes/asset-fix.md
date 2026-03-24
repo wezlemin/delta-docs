@@ -3,7 +3,7 @@ This is for when they refuse to load on **iOS**. If you are on **Android**, use 
 **DO NOT USE A VPN ON IOS OR YOUR CERTIFICATE MIGHT GET REVOKED, RESULTING IN DELTA CRASHING!**
 
 ## Instructions
-1. Download [this](https://github.com/wezlemin/delta-docs/raw/refs/heads/main/general/Workspace.zip) ZIP.
+1. Download [this](https://github.com/wezlemin/delta-docs/raw/refs/heads/main/fixes/Workspace.zip) ZIP.
 2. Check the Downloads section for Safari (top-left or bottom-left).
 3. Click on Workspace, then click the Share icon.
 4. Click Save to Files.
