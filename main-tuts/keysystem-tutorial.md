@@ -1,5 +1,5 @@
 # Key System Tutorial
-> Video Tutorial: https://docs.deltaexploits.gg/licensekey/
+> Video Tutorial: [https://docs.deltaexploits.gg/licensekey/](https://docs.deltaexploits.gg/licensekey/)
 
 To use Delta, you need to enter a license key. You can get one for free by completing the key system. The key system supports the developers of Delta, as the advertisements are how they monetise the project. License keys last 24 hours, so after that, you will have to complete the key system again. Keys are also HWID-based, which means that a key you generate will not work on any other device.
 
@@ -49,8 +49,8 @@ Once you can see your key, copy it, open a Roblox game, paste it in the box, and
 * Use mobile/cellular data (make sure Wi-Fi is off).
 * If auth.platorelay.com displays an error, restart the key system using the original link you copied.
 * If one browser/device doesn't work, try a different browser (Brave, Chrome, Firefox, Safari, etc.) or device.
-* Use a browser emulator (https://browser.lol).
+* Use a browser emulator ([https://browser.lol](https://browser.lol)).
 
 ### Paid Keys
 
-If you do not want to complete the key system process every day, you can buy monthly keys from the Delta shop. Go to https://shop.deltaexploits.gg/ and click Buy Now. Note that they may be out of stock. You could also buy Linkvertise Premium or Unlock-r to do the key system quicker.
+If you do not want to complete the key system process every day, you can buy monthly keys from the Delta shop. Go to [https://shop.deltaexploits.gg/](https://shop.deltaexploits.gg/) and click Buy Now. Note that they may be out of stock. You could also buy Linkvertise Premium or Unlock-r to do the key system quicker.
