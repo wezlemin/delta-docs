@@ -6,7 +6,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 ## Instructions:
 
-**1. Download the IPA**
+**1. Sign and Download the Delta IPA**
 
 * Read my IPASignX tutorial.
 * **Important:** Instead of clicking **Install Now**, choose **Download IPA**.
@@ -18,7 +18,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 **3. Prepare the Plist**
 
-* Upload a `.plist` file (e.g., `Truck.plist`) to a public URL.
+* Upload a `.plist` file (e.g., `Truck.plist`) to a public URL (for example, Pastebin.com)
 * Open the plist in a text editor and replace the `<string>` URL with your IPA's hosted URL:
 
 ```xml
