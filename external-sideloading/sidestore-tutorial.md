@@ -1,6 +1,7 @@
 # Installing Delta via SideStore
-**Refer to https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors for any problems or additional information.** <br>
-**If you want to see a different version of this guide, look at the Windows/MacOS/Linux sections here: https://docs.deltaexploits.gg/installation/ios**
+**Refer to [https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors](https://docs.sidestore.io/docs/troubleshooting/error-codes#apple-developer-errors) for any problems or additional information.** <br>
+
+**If you want to see a different version of this guide, look at the Windows/MacOS/Linux sections here: [https://docs.deltaexploits.gg/installation/ios](https://docs.deltaexploits.gg/installation/ios)**
 
 ## Requirements
 To install SideStore, you will need:
@@ -14,12 +15,12 @@ To install SideStore, you will need:
 ## Preparation
 1. On your iDevice, go to the App Store and search "LocalDevVPN".
 2. Install the app and open it.
-> If you cannot use the AppStore as you are in the EU, use https://api.altstore.io/source/adp.se2crid.me?app=com.jkcoxson.LocalDevVPN instead.
+> If you cannot use the App Store as you are in the EU, use [https://api.altstore.io/source/adp.se2crid.me?app=com.jkcoxson.LocalDevVPN](https://api.altstore.io/source/adp.se2crid.me?app=com.jkcoxson.LocalDevVPN) instead.
 3. Click Skip and click Connect.
 4. Click Allow and enter your password.
 
 ### Mac
-5. Go to this link: https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg and download the file.
+5. Go to this link: [https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg](https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg) and download the file.
 6. Open the DMG and drag iloader into Applications.
 
 ### Windows
@@ -29,12 +30,12 @@ To install SideStore, you will need:
 > control /name microsoft.system 
 
 > The Control Panel will open. Under the "System" tab, locate "System Type". If you have a "32-bit" operating system, or if you have an "ARM64" processor AND you are using Windows 10, your version of Windows is not supported.
-5. Download and install iTunes from the Microsoft Store (https://apps.microsoft.com/store/detail/9PB2MZ1ZMB1S) or directly from Apple (https://www.apple.com/itunes/download/win64).
-6. Download the iloader installer as an MSI (https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi; recommended) or as an EXE (https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe).
+5. Download and install iTunes from the Microsoft Store ([https://apps.microsoft.com/store/detail/9PB2MZ1ZMB1S](https://apps.microsoft.com/store/detail/9PB2MZ1ZMB1S)) or directly from Apple ([https://www.apple.com/itunes/download/win64](https://www.apple.com/itunes/download/win64)).
+6. Download the iloader installer as an MSI ([https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi); recommended) or as an EXE ([https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe)).
 7. Run the installer.
 
 ### Linux
-> https://docs.sidestore.io/docs/installation/prerequisites
+> [https://docs.sidestore.io/docs/installation/prerequisites](https://docs.sidestore.io/docs/installation/prerequisites)
 ## Installation
 1. Connect your iDevice to your computer using a USB cable (or a wireless pad... in my case). 
 2. Go to Applications on your computer and open iloader. Click Open when prompted. You may need to trust your computer and enter your password.
@@ -42,7 +43,7 @@ To install SideStore, you will need:
 4. On your iDevice, click Allow. Afterwards, enter the code it displays into the box in iloader and click Submit.
 5. Select your iDevice in iloader.
 6. Click "SideStore (Stable)" and wait until it finishes installing.
-> The lazy way of installing (just use Sideloadly if you want to do this): Instead of choosing "SideStore (Stable)" in iloader, choose "Import IPA" instead. Select the Delta IPA from https://deltaexploits.gg. Afterwards, wait for it to Sign and Install. 
+> The lazy way of installing (just use Sideloadly if you want to do this): Instead of choosing "SideStore (Stable)" in iloader, choose "Import IPA" instead. Select the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg). Afterwards, wait for it to Sign and Install. 
 7. On your iDevice, go to Settings > General > VPN & Device Management. Click the Developer App that shows with your Apple ID email.
 8. Trust it and click Allow. For later iOS/iPadOS, it will show as Allow & Restart. Enter your password if you are prompted.
 9. Go to your home screen and open SideStore. Click Allow for the local network popup.
@@ -50,7 +51,7 @@ To install SideStore, you will need:
 11. Click "Got It", then go to My Apps.
 12. Click the "7 DAYS" counter next to SideStore. If you receive a prompt asking to revoke or create a new signing certificate, tap 'Yes' or 'Refresh Now'.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
-13. Go to https://deltaexploits.gg and download the IPA.
+13. Go to [https://deltaexploits.gg](https://deltaexploits.gg) and download the IPA.
 > Due to a Delta update, you will need to sign the IPA with a certificate before continuing. You can use IPASignX to do this. <br>
 > Instead of clicking "Install Now", click "Download IPA".
 14. In the My Apps section of SideStore, click the plus (+) button at the top left. Find the Delta IPA you signed with the certificate and click it.
