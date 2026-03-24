@@ -11,7 +11,7 @@
 
 * 2/1: Do you already have Roblox or Delta installed? Try deleting them first, then reinstall.
 * 1/4/3: Are you using the latest version of Android? If not, update it and then reinstall. You should have Android 11 or higher at a minimum.
-* 1/4/3: Are you downloading it from https://deltaexploits.gg? If not, download and install it from there.
+* 1/4/3: Are you downloading it from [https://deltaexploits.gg](https://deltaexploits.gg)? If not, download and install it from there.
 * 1/4: Did the APK download correctly? Try downloading it using another browser or a VPN.
 * 1/3: Have you enabled “Allow from unknown sources” for your browser? If not, enable it and try reinstalling.
 > Settings > Apps > Special App Access > Install Unknown Apps, select your browser (e.g., Chrome), and toggle Allow from this source.
