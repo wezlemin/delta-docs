@@ -1,5 +1,5 @@
 # Installing Delta via Sideloadly
-**Sideloadly Website: https://sideloadly.io**
+**Sideloadly Website: [https://sideloadly.io](https://sideloadly.io)**
 
 ## Requirements
 - Mac running macOS 10.12 Sierra or later OR a Windows computer running Windows 7 or later
@@ -9,7 +9,7 @@
 ## Instructions:
 1. Connect your computer to your iDevice (iPhone/iPad).
 2. Go to the website and download Sideloadly on your computer.
-3. Download the Delta IPA from https://deltaexploits.gg.
+3. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
 4. Open Sideloadly and enter your Apple ID (email).
 5. Click on IPA and select the Delta IPA you downloaded.
 6. Click Start, enter your Apple ID password, and wait a few minutes.
