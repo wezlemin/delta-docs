@@ -1,8 +1,8 @@
 # Installing Delta via AltStore
 
 **Official Docs:**
-> **https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos** <br>
-> **https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows**
+> [https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos](https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos) <br>
+> [https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 
 ## Requirements
 - macOS 11 or later
@@ -11,8 +11,8 @@
 > On your iDevice, go to Settings > Privacy and Security > Developer Mode. Enable it.
 
 ## MacOS Preparation
-1. Download AltServer from https://cdn.altstore.io/file/altstore/altserver.zip (macOS 11+)
-> If you are on macOS 10.14 or 10.15, download AltServer 1.6.2 from https://f000.backblazeb2.com/file/altstore/altserver/1_6_2.zip
+1. Download AltServer from [https://cdn.altstore.io/file/altstore/altserver.zip](https://cdn.altstore.io/file/altstore/altserver.zip) (macOS 11+)
+> If you are on macOS 10.14 or 10.15, download AltServer 1.6.2 from [https://f000.backblazeb2.com/file/altstore/altserver/1_6_2.zip](https://f000.backblazeb2.com/file/altstore/altserver/1_6_2.zip)
 2. Open the ZIP. Drag AltServer from Desktop into Applications.
 3. Go to Applications and open AltServer. Click Open.
 4. Click the AltServer icon that appeared in the topbar. Afterwards, hover over "Install AltStore" and click your iDevice.
@@ -21,10 +21,10 @@
 
 ## Windows Preparation
 1. Install iTunes and iCloud using the following links:
-> iTunes: Windows 64-bit: https://www.apple.com/itunes/download/win64 <br>
-> iTunes: Windows 32-bit: https://www.apple.com/itunes/download/win32 <br>
-> iCloud: https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
-2. Download AltServer from https://cdn.altstore.io/file/altstore/altinstaller.zip
+> iTunes: Windows 64-bit: [https://www.apple.com/itunes/download/win64](https://www.apple.com/itunes/download/win64) <br>
+> iTunes: Windows 32-bit: [https://www.apple.com/itunes/download/win32](https://www.apple.com/itunes/download/win32) <br>
+> iCloud: [https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+2. Download AltServer from [https://cdn.altstore.io/file/altstore/altinstaller.zip](https://cdn.altstore.io/file/altstore/altinstaller.zip)
 3. Extract AltInstaller.zip and run Setup.exe.
 4. Search for "AltServer" in Windows' search bar and click "Run as administrator." Make sure to allow access to private networks if prompted. AltStore will appear as an icon in the taskbar.
 5. Click the AltServer icon that appeared in the taskbar. Afterwards, go to "Install AltStore" and click your iDevice.
@@ -37,7 +37,7 @@
 3. Go to the Settings section and click Login. Enter your Apple ID (Email) and Password, the same one you used before to get AltStore on your iDevice. 
 4. Go to the My Apps section. Click the "7 DAYS" counter next to SideStore.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
-5. Download the Delta IPA from https://deltaexploits.gg.
+5. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
 > Due to a Delta update, you will need to sign the IPA with a certificate before continuing. You can use IPASignX to do this. <br>
 > Instead of clicking "Install Now", click "Download IPA".
 6. Go back to AltStore. Click on the + icon, then import the Delta IPA. Keep App Extensions. Then wait... it may take a while to finish importing.
