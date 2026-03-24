@@ -1,6 +1,6 @@
 # Installing Delta via Direct Install
 1. Delete Delta Roblox if you already have it. Turn off your VPN if you have one enabled.
-2. Go to https://delta.bz/ and click on Direct Install.
+2. Go to [https://delta.bz/](https://delta.bz/) and click on Direct Install.
 3. Go to your home screen and the Delta app should start downloading. 
 4. Once Delta finishes downloading, click on it. If you get an _integrity_ error, check the "Notes" section.
 5. Go to System Settings → VPN and Device Management. Trust the Delta app and restart your device.
