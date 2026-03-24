@@ -1,6 +1,6 @@
 # Turning Off Toggles
-> ⚠️ Only turn Anti-Scam / Disable Robux / Verify Teleports off if you're know what you're doing!
-> To learn more about these features, read https://docs.deltaexploits.gg/protections.
+> ⚠️ Only turn Anti-Scam / Disable Robux / Verify Teleports off if you're know what you're doing! <br>
+> To learn more about these features, read [https://docs.deltaexploits.gg/protections](https://docs.deltaexploits.gg/protections).
 
 ## UI Disable
 > This only applies for one game. You must do these steps for every game you want to have the options off.
