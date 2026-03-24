@@ -18,6 +18,7 @@
   * [AltStore Tutorial](external-sideloading/altstore-tutorial.md)
 * [Main Tutorials](main-tuts/README.md)
   * [Keysystem Tutorial](main-tuts/keysystem-tutorial.md)
+  * [Direct Install Tutorial](main-tuts/delta-direct.md)
   * [Autoexecute (iOS)](main-tuts/autoexecution.md)
   * [Turning Toggles Off](main-tuts/toggles-off.md)
   * [Changing The Delta Icon](main-tuts/delta-icon-change.md)
