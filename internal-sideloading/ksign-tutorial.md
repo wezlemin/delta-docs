@@ -1,4 +1,5 @@
-# KSign Tutorial (Recommended)
+# KSign/ESign Tutorial (Recommended)
+> WARNING: KSIGN HAS BEEN REMOVED FROM KHOINDVN. THERE IS NO KNOWN REASON FOR THIS, SO USE ESIGN UNTIL WE GET AN UPDATE ABOUT IT.
 
 ### Read KSign Troubleshooting if you have any issues.
 
