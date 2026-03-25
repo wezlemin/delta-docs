@@ -96,7 +96,7 @@
 4. Click the ... button at the top right, then click Import File.
 5. Click Files, then click on the Delta IPA you downloaded.
 6. Click Import to App Library.
-7. Wait for the IPA to unzip. Afterwards, click Confirm>
+7. Wait for the IPA to unzip. Afterwards, click Confirm.
 8. Click on "Roblox.app - Delta". Click Sign, then click Start Signing.
 9. Wait for it to Sign, then click "Go to Install"
 10. Click "Install" for the "download.ipsv.eu.org" pop-up.
