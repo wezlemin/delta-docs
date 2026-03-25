@@ -72,7 +72,7 @@
 6. Go to your device's home screen and wait until the new KSign app installs, which will turn into a Delta. You can now click it and play Roblox.
 
 ## ESign Method
-
+> Read ESign "Ysign" Method
 1. Open ESign and click the ... button.
 2. Click Import and add your Delta IPA file.
 3. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn) (the website, because the bookmark will not work) and click Download Certificate. If the button does not work, click [here](https://github.com/S-PScripts/certs-download/raw/refs/heads/main/ESignCert.zip). You can also download the certificates from [https://techybuff.com/ksign](https://techybuff.com/ksign).
@@ -86,6 +86,22 @@
 8. Wait until Delta shows in Apps.
 9. Click it and click Signature. If it shows a revoked message, you might not be able to install Delta with the ESign you are using. Click Install when prompted.
 10. Go to your device's home screen and wait until the new ESign app installs, which will turn into a Delta. You can now click it and play Roblox.
+
+# ESign "Ysign" Method
+> This is the new ESign, which is like a hybrid of KSign and old ESign. <br>
+> In the User Service Agreement, it is referred to as "Ysign", so I will call it this.
+1. Open Ysign.
+2. Click on Don't Allow for notifications (or Allow).
+3. Click Next for the User Service Agreement, then click Agree.
+4. Click the ... button at the top right, then click Import File.
+5. Click Files, then click on the Delta IPA you downloaded.
+6. Click Import to App Library.
+7. Wait for the IPA to unzip. Afterwards, click Confirm>
+8. Click on "Roblox.app - Delta". Click Sign, then click Start Signing.
+9. Wait for it to Sign, then click "Go to Install"
+10. Click "Install" for the "download.ipsv.eu.org" pop-up.
+11. Go to your home screen. Delta should install; you are done! 
+> If it shows a revoked message, you might not be able to install Delta with the Ysign you are using. Delete it, then get another.
 
 ### KSign Method without khoindvn
 
