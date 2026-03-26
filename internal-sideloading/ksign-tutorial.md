@@ -107,3 +107,7 @@
 > If you want to get KSign (and you do not want to use [https://khoindvn.pages.dev](https://khoindvn.pages.dev) to get them), read this:
 1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use KSign's: [https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa](https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa). You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the KSign Method section. You will need to import the .p12 and .mobileprovision files.
+
+## ESign "Ysign" Method without khoindvn
+1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use ESign's: [https://khoindvn.io.vn/iPA/esign.ipa](https://khoindvn.io.vn/iPA/esign.ipa). You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
+2. You can now read the ESign "Ysign" Method section.
