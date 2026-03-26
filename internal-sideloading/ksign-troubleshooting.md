@@ -1,14 +1,15 @@
 # KSign Notes/Troubleshooting
 If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO THAT SECTION!
 
-## General Information:
+## General Information
 - DO NOT DELETE THE DNS OR USE A VPN. IT IS ALSO RECOMMENDED TO NOT DELETE THE KSIGN AS YOU WILL NEED IT WHEN DELTA UPDATES.
 - If you open Roblox and it gives an update pop-up, join the Delta Discord server (https://discord.com/invite/deltax) and wait until the devs ping about an update for Delta. Once they ping, delete Delta (from App Library), download the new IPA, then import it in KSign/ESign and sign and install it.
 - If you click on Delta/KSign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the KSign/ESign. Afterwards, install another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
 - If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Settings > Screen Time > Content & Privacy Restrictions > Turn off the toggle.
 - Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
 - If you get an extraction error when using KSign, please ensure the IPA downloaded correctly (it should not be 0 bytes, it should be 100MB+). If you did download it correctly, go to KSign Settings > Archive & Extraction > Switch the extraction library. Afterwards, close the app and reopen it, then try to reimport.
-
+- If you want to clone Delta, you can sign Delta with a different Identifier (it's in the same screen as where the Start Signing button is).
+ 
 ## What to do if you cannot access khoindvn
 > Use this website: https://khoindvn.pages.dev/ (or read on...) <br>
 > List of api.khoindvn.io.vn: https://pastebin.com/raw/4dMmJBs3
