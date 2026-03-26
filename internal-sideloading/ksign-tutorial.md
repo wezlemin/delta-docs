@@ -21,7 +21,7 @@
 
 > ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the khoindvn tab) to return to khoindvn.
 
-3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click here ([https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig)).
+3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings > General > About > Certificate Trust Settings and toggle the switch on for AAA certificates.
 6. On your Home Screen, a bookmark will appear. You do not need to install ESigns from it!
@@ -72,7 +72,7 @@
 6. Go to your device's home screen and wait until the new KSign app installs, which will turn into a Delta. You can now click it and play Roblox.
 
 ## ESign Method
-> Read ESign "Ysign" Method
+> Read ESign "Ysign" Method if you use khoindvn ESign, NOT this.
 1. Open ESign and click the ... button.
 2. Click Import and add your Delta IPA file.
 3. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn) (the website, because the bookmark will not work) and click Download Certificate. If the button does not work, click [here](https://khoindvn.io.vn/document/DNS/ESignCert.zip). You can also download the certificates from [https://techybuff.com/ksign](https://techybuff.com/ksign).
