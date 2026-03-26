@@ -1,5 +1,5 @@
-# KSign/ESign Tutorial (Recommended)
-> WARNING: KSIGN HAS BEEN REMOVED FROM KHOINDVN. THERE IS NO KNOWN REASON FOR THIS, SO USE ESIGN UNTIL WE GET AN UPDATE ABOUT IT.
+# ESign/KSign Tutorial (Recommended)
+> UPDATE 2026-03-25: All the KSigns have been removed from the official Khoindvn website, and the ESigns have been turned into some sort of hybrid of KSign and the old ESign. The KSigns will likely return to Khoindvn soon. On 2026-03-26, the Khoindvn owner confirmed this; KSign will return to the website once the testing process for the new ESign is complete.
 
 ### Read KSign Troubleshooting if you have any issues.
 
@@ -24,13 +24,13 @@
 3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click here ([https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig)).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings > General > About > Certificate Trust Settings and toggle the switch on for AAA certificates.
-6. On your Home Screen, a bookmark will appear. You do not need to install KSigns/ESigns from it!
-7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to KSign/ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). YOU SHOULD NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
+6. On your Home Screen, a bookmark will appear. You do not need to install ESigns from it!
+7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). YOU SHOULD NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
+> ⚠️ KSigns are better, but they have been removed from the website. If you want to it, visit [https://khoindvn.pages.dev](https://khoindvn.pages.dev). <br>
+> 💡 Start with the one at the top and work your way down the list if it is revoked. <br>
+> 💡 To save time, you could install multiple ESigns at a time. <br>
 
-> 💡 It is recommended to try the KSigns first. Start with the one at the top and work your way down the list if it is revoked. <br>
-> 💡 To save time, you could install multiple KSigns at a time. <br>
-
-> 💡 Attempt to install all the KSigns/ESigns! Do not just try a few and give up because all of them were revoked. <br>
+> 💡 Attempt to install all the ESigns! Do not just try a few and give up because all of them were revoked. <br>
 > ⚠️ If no application appears on your homescreen, read KSign Troubleshooting.
 
 7. Go to your phone's Home Screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
@@ -87,7 +87,7 @@
 9. Click it and click Signature. If it shows a revoked message, you might not be able to install Delta with the ESign you are using. Click Install when prompted.
 10. Go to your device's home screen and wait until the new ESign app installs, which will turn into a Delta. You can now click it and play Roblox.
 
-# ESign "Ysign" Method
+## ESign "Ysign" Method
 > This is the new ESign, which is like a hybrid of KSign and old ESign. <br>
 > In the User Service Agreement, it is referred to as "Ysign", so I will call it this.
 1. Open Ysign.
@@ -103,9 +103,7 @@
 11. Go to your home screen. Delta should install; you are done! 
 > If it shows a revoked message, you might not be able to install Delta with the Ysign you are using. Delete it, then get another.
 
-### KSign Method without khoindvn
-
-> Why would you do this? I have no idea.
-
+## KSign Method without khoindvn
+> If you want to get KSign (and you do not want to use [https://khoindvn.pages.dev](https://khoindvn.pages.dev) to get them), read this:
 1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use KSign's: [https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa](https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa). You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the KSign Method section. You will need to import the .p12 and .mobileprovision files.
