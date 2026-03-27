@@ -1,6 +1,6 @@
 # How to create a Direct Install for Delta
-Example (this uses the National Oilwell Varco, Inc. certificate): <br>
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/wezlemin/signed-delta/refs/heads/main/Varco.plist
+Example (this uses the XL AXIATA, PT TBK certificate): <br>
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/wezlemin/signed-delta/refs/heads/main/axe.plist
 
 ---
 
@@ -18,7 +18,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 **3. Prepare the Plist**
 
-* Upload a `.plist` file (e.g., `Truck.plist`) to a public URL (for example, Pastebin.com)
+* Upload a `.plist` file (e.g., `Axe.plist`) to a public URL (for example, Pastebin.com)
 * Open the plist in a text editor and replace the `<string>` URL with your IPA's hosted URL:
 
 ```xml
