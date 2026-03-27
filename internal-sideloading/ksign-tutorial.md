@@ -98,9 +98,9 @@
 6. Click Import to App Library.
 7. Wait for the IPA to unzip. Afterwards, click Confirm.
 8. Click on "Roblox.app - Delta". Click Sign, then click Start Signing.
+> If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br>
 9. Wait for it to Sign, then click "Go to Install"
 10. Click "Install" for the "download.ipsv.eu.org" pop-up.
-> If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br>
 11. Go to your home screen. Delta should install; you are done! 
 > If it shows a revoked message, you might not be able to install Delta with the Ysign you are using. Delete it, then get another.
 
