@@ -8,7 +8,7 @@
 5. Go to 0/storage/emulated.
 6. Click on "Download".
 7. Scroll until you find the icon you downloaded.
-8. Hold it. fterwards, click "Copy".
+8. Hold it. Afterwards, click "Copy".
 9. Swipe back, then click on the Delta folder.
 10. Click on "Workspace".
 11. Click the clipboard icon at the bottom right.
