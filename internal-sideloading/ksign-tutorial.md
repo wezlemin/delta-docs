@@ -111,4 +111,4 @@
 
 ## ESign "Ysign" Method without khoindvn
 1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use ESign's: [https://khoindvn.io.vn/iPA/esign.ipa](https://khoindvn.io.vn/iPA/esign.ipa). You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
-2. You can now read the ESign "Ysign" Method section.
+2. You can now read the ESign "Ysign" Method section. - TO BE UPDATED 
