@@ -6,7 +6,7 @@
 - iPhone/iPad with iOS 7 or higher
 - Apple ID & iCloud aged 13+
 
-## Instructions:
+## Instructions
 1. Connect your computer to your iDevice (iPhone/iPad).
 2. Go to the website and download Sideloadly on your computer.
 3. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
