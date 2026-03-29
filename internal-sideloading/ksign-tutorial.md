@@ -17,7 +17,7 @@
 > If you don't want to use khoindvn (just use it, it's safe), read the "KSign Method without khoindvn" section.
 
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
-2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari.
+2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
 
 > ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the khoindvn tab) to return to khoindvn.
 
