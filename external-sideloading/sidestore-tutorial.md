@@ -43,7 +43,7 @@ To install SideStore, you will need:
 4. On your iDevice, click Allow. Afterwards, enter the code it displays into the box in iloader and click Submit.
 5. Select your iDevice in iloader.
 6. Click "SideStore (Stable)" and wait until it finishes installing.
-> The lazy way of installing (just use Sideloadly if you want to do this): Instead of choosing "SideStore (Stable)" in iloader, choose "Import IPA" instead. Select the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg). Afterwards, wait for it to Sign and Install. 
+> The lazy way of installing Delta (only lasts for 7 days): Instead of choosing "SideStore (Stable)" in iloader, choose "Import IPA" instead. Select the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg). Afterwards, wait for it to Sign and Install. 
 7. On your iDevice, go to Settings > General > VPN & Device Management. Click the Developer App that shows with your Apple ID email.
 8. Trust it and click Allow. For later iOS/iPadOS, it will show as Allow & Restart. Enter your password if you are prompted.
 9. Go to your home screen and open SideStore. Click Allow for the local network popup.
