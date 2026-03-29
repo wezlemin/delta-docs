@@ -23,7 +23,7 @@
 
 3. Scroll down, click on Download DNS Profile and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the khoindvn DNS Profile. Enter your password if prompted.
-5. If required, go to Settings > General > About > Certificate Trust Settings and toggle the switch on for AAA certificates.
+5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA certificates.
 6. On your Home Screen, a bookmark will appear. You do not need to install ESigns from it!
 7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to ESign and download one of them (such as China National Heavy Duty Truck Group Co., Ltd). YOU SHOULD NOT FORGET THE NAME OF THE ESIGN/KSIGN YOU DOWNLOADED!
 > ⚠️ KSigns are better, but they have been removed from the website. If you want to it, visit [https://khoindvn.pages.dev](https://khoindvn.pages.dev). <br>
