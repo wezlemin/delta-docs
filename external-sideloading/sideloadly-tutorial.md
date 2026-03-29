@@ -8,7 +8,8 @@
 
 ## Instructions
 1. Connect your computer to your iDevice (iPhone/iPad).
-2. Go to the website and download Sideloadly on your computer.
+2. Go to the Sideloadly website.
+3. Click on Download and click the relevant download for your computer. Afterwards, install it.
 3. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
 4. Open Sideloadly and enter your Apple ID (email).
 5. Click on IPA and select the Delta IPA you downloaded.
