@@ -13,9 +13,12 @@
 3. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
 4. Open Sideloadly and enter your Apple ID (email).
 5. Click on IPA and select the Delta IPA you downloaded.
-6. Click Start, enter your Apple ID password, and wait a few minutes.
-7. On your iDevice, Delta should have downloaded. Go to Settings, VPN and Device Management, trust the app, then enable developer mode in Privacy and Security (iOS 16+).
-8. After restarting, you should be able to open Delta!
+6. Click Start, enter your Apple ID password.
+7. On your phone, click the "Apple Account Sign In Required" pop-up, then unlock your iDevice.
+8. Click Allow, then enter and verify the 6 digit code it shows into the Two-Factor Authenticator box Sideloadly shows.
+9. Wait a few minutes.
+10. On your iDevice, Delta should have downloaded. Go to Settings, VPN and Device Management, trust the app, then enable developer mode in Privacy and Security (iOS 16+).
+11. After restarting, you should be able to open Delta!
 
 > This guide was made for macOS but it should be identical for Windows.
 
