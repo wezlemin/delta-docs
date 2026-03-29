@@ -2,7 +2,7 @@
 ## Preparation
 1. Go to [https://flarestore.app/dns](https://flarestore.app/dns). Use Safari, and make sure you have no VPN enabled.
 2. Click on Install Pre-Install Profile.
-3. Click Allow then Close. Go to Settings > General > VPN & Device Management > FlareStore PreInstall.
+3. Click Allow then Close. Go to Settings → General → VPN & Device Management → FlareStore PreInstall.
 4. Install the DNS. You may need to enter your password.
 5. Turn your Mobile (Cellular) Data/Wi-Fi off and on.
 6. Follow one of the tutorials below:
@@ -24,11 +24,11 @@
 12. Click Sign Application. Afterwards, wait.
 13. Click Install App. Click Install when prompted by flarestore.app, then go to your homescreen.
 14. Once Delta installs, click it. If it shows an integrity error or crashes, delete it then sign with another certificate.
-15. Clicking on Delta will show an "Untrusted Enterprise Developer" error. Go to Settings > General > VPN & Device Management. Afterwards, trust the certificate and restart your device.
+15. Clicking on Delta will show an "Untrusted Enterprise Developer" error. Go to Settings → General → VPN & Device Management. Afterwards, trust the certificate and restart your device.
 16. It will show "Ready to Install Profile". Just swipe up / press Home to continue (as it says), then click "Install Profile" and enter your password if required.
 17. Go back to [https://flarestore.app/dns](https://flarestore.app/dns).
 18. Click on Install Post-Install Profile.
-19. Click Allow then Close. Go to Settings > General > VPN & Device Management > FlareStore PostInstall.
+19. Click Allow then Close. Go to Settings → General → VPN & Device Management → FlareStore PostInstall.
 20. Install the DNS. You may need to enter your password.
 21. You are done!
 > When Delta updates, delete the app. Afterwards, switch the DNS Profile back to Pre-Install, then sign and install Delta again. Then, you can just set the DNS Profile to Post-Install.
@@ -51,7 +51,7 @@
 8. Click "FlareStore v1.0 - Install".
 9. Click Install App. Click Install when prompted by flarestore.app, then go to your homescreen.
 10. Once FlareStore installs, click it. If it shows an integrity error or crashes, delete it then sign with another certificate.
-11. Clicking on FlareStore will show an "Untrusted Enterprise Developer" error. Go to Settings > General > VPN & Device Management. Afterwards, trust the certificate and restart your device.
+11. Clicking on FlareStore will show an "Untrusted Enterprise Developer" error. Go to Settings → General → VPN & Device Management. Afterwards, trust the certificate and restart your device.
 12. It will show "Ready to Install Profile". Just swipe up / press Home to continue (as it says), then click "Install Profile" and enter your password if required.
 13. Click Allow, then click Continue.
 14. Click Continue, then click Get Started.
@@ -65,7 +65,7 @@
 21. Go to your homescreen. Delta should install.
 22. Go back to [https://flarestore.app/dns](https://flarestore.app/dns).
 23. Click on Install Post-Install Profile.
-24. Click Allow then Close. Go to Settings > General > VPN & Device Management > FlareStore PostInstall.
+24. Click Allow then Close. Go to Settings → General → VPN & Device Management → FlareStore PostInstall.
 25. Install the DNS. You may need to enter your password.
 26. You are done!
 > When Delta updates, delete the app. Afterwards, download the latest IPA and import it into FlareStore. Switch the DNS Profile back to Pre-Install, then sign and install Delta. Then, you can just set the DNS Profile to Post-Install again.
