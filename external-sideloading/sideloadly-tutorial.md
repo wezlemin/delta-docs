@@ -13,7 +13,7 @@
 3. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
 4. Open Sideloadly and enter your Apple ID (email).
 5. Click on IPA and select the Delta IPA you downloaded.
-6. Click Start, enter your Apple ID password.
+6. Click Start and enter your Apple ID password.
 7. [If required]: On your phone, click the "Apple Account Sign In Required" pop-up, then unlock your iDevice.
 8. [If required]: Click Allow, then enter and verify the 6 digit code it shows into the Two-Factor Authenticator box Sideloadly shows.
 9. Wait a few minutes.
