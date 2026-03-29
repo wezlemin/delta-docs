@@ -4,7 +4,7 @@
 3. Go to [https://osign.ipasign.cc/](https://osign.ipasign.cc/). If you are going to going to use Osign, click on Osign IPA and click Download.
 4. Click on Certificates and click Download.
 5. Go to the Files app on your device and compress the Certificates ZIP. Afterwards, go back to the Osign website.
-6. Go to [https://flekstore.com/pro_app/](https://flekstore.com/pro_app/) and read what it says (Share button > find Add to Home Screen > Click Add).
+6. Go to [https://flekstore.com/pro_app/](https://flekstore.com/pro_app/) and read what it says (Share button → find Add to Home Screen → Click Add).
 7. Click on FlekSt0re in your homescreen.
 8. Disable notifications (or enable them) then click Device.
 9. Click Add device then click Allow for the configuration profile.
