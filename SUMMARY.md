@@ -14,6 +14,7 @@
   * [FlekSt0re Tutorial](internal-sideloading/flekst0re-tutorial.md)
 * [External Sideloading Tutorials](external-sideloading/README.md)
   * [SideStore Tutorial (Recommended)](external-sideloading/sidestore-tutorial.md)
+  * [Impactor Tutorial](external-sideloading/impactor-tutorial.md)
   * [Sideloadly Tutorial](external-sideloading/sideloadly-tutorial.md)
   * [AltStore Tutorial](external-sideloading/altstore-tutorial.md)
 * [Main Tutorials](main-tuts/README.md)
