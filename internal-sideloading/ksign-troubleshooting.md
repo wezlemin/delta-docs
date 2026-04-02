@@ -12,7 +12,7 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
  
 ## What to do if you cannot access khoindvn
 > Use this website: [https://khoindvn.pages.dev/](https://khoindvn.pages.dev/) (or read on...) <br>
-> List of api.khoindvn.io.vn: [https://pastebin.com/3yV2rgBy](https://pastebin.com/3yV2rgBy)
+> List of api.khoindvn.io.vn links: [https://pastebin.com/3yV2rgBy](https://pastebin.com/3yV2rgBy)
 
 - If you cannot access [https://khoindvn.io.vn](https://khoindvn.io.vn), try these:
 > Use mobile/cellular data (make sure Wi-Fi is off) <br>
@@ -21,18 +21,10 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 > Use another browser (such as Brave) <br>
 > Go to [https://techybuff.com/ksign](https://techybuff.com/ksign) and see if you can download the KSigns there
 
-- If it is just the KSign/ESign downloads that do not work (https://api.khoindvn.io.vn), right-click one (on khoindvn.io.vn or techybuff.com/ksign) and copy the link. Afterwards, go to https://www.view-page-source.com/, paste the link and look at its output. Here are some examples:
-> Failed to fetch URL: failed to fetch URL: Get "itms-services:?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/48bhl.plist": unsupported protocol scheme "itms-services" <br>
-> Failed to fetch URL: failed to fetch URL: Get "itms-services:?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/3z8yi.plist": unsupported protocol scheme "itms-services"
-- Take the part between the two quotation marks (that is, itms-services:?action=download...plist”).
-- Next, add :// before the ?
-- Finally, copy the link into your browser. Examples:
-> itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/48bhl.plist <br>
-> itms-services://?action=download-manifest&url=https://download.khoindvn.io.vn/Plist/3z8yi.plist
-
 - If you cannot access Khoindvn as a whole, you could try using another signer.
 
 ## What to do if NONE of the KSigns or ESigns work (because they are all *REVOKED*/*BLACKLISTED*)
+> If they do not install, that is a different problem. Read the "What to do if you cannot access khoindvn" section.
 - You can use Direct Install if it is not down/broken.
 - You can sideload with a computer ([https://sidestore.io](https://sidestore.io), [https://sideloadly.io](https://sideloadly.io)).
 - If you have a computer, and your phone is running iOS 17.0 - iOS iOS 18.0.1, [BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) might work for you.
