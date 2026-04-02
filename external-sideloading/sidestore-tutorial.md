@@ -59,4 +59,5 @@ To install SideStore, you will need:
 14. In the My Apps section of SideStore, click the plus (+) button at the top left. Find the Delta IPA you signed with the certificate and click it.
 15. Wait until Delta appears. Click Keep App Extensions.
 16. Check your Home Screen; you now have Delta!
-> DO NOT TURN OFF LOCALDEVVPN OR BACKGROUND REFRESHING WILL NOT WORK (SO YOU WILL HAVE TO SIGN SIDESTORE AGAIN). LocalDevVPN is required to be turned on any time you wish to install, update, or refresh apps in SideStore.
+> ⚠️ DO NOT TURN OFF LOCALDEVVPN OR BACKGROUND REFRESHING WILL NOT WORK (SO YOU WILL HAVE TO SIGN SIDESTORE AGAIN). LocalDevVPN is required to be turned on any time you wish to install, update, or refresh apps in SideStore. <br>
+> ⚠️ Updating or resetting your device may invalidate the pairing file, requiring replacement using [this guide](https://docs.sidestore.io/docs/advanced/pairing-file). This may also occur unpredictably due to Apple software behaviour.
