@@ -39,6 +39,7 @@
 
 8. Go to Settings → General → VPN and Device Management. Trust the enterprise app (and restart if required).
 9. Download the Delta IPA by going to [https://deltaexploits.gg](https://deltaexploits.gg). Use Safari.
+> If you cannot access the website, look [here](https://wezington-works.gitbook.io/delta-docs/information/delta-websites).
 10. Use one of the methods below (depending on if you are using KSign or ESign):
 
 ## KSign Method
