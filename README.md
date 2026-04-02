@@ -1,10 +1,10 @@
 # Unofficial Delta Docs
-This website (unofficial Delta Docs) was created by @quappingreal (Discord), also known as [wezlemin](https://github.com/wezlemin) on GitHub. It contains information not found in the [official Delta Docs](https://docs.deltaexploits.gg/). To view the source for this website, click [here](https://github.com/wezlemin/delta-docs/).
+This website (unofficial Delta Docs) was created by @ts2021 (Discord), also known as [wezlemin](https://github.com/wezlemin) on GitHub. It contains information not found in the [official Delta Docs](https://docs.deltaexploits.gg/). To view the source for this website, click [here](https://github.com/wezlemin/delta-docs/).
 
 Please be aware that this website is not exhaustive. Read the official Delta Docs if you cannot find what you are looking for here.
 
 ## What is Delta?
-[Delta](https://deltaexploits.gg) is a free developer tool for [Roblox](https://roblox.com) that can run most available Roblox Luau scripts. It supports Android and iOS devices natively, as well as computers via emulators. Delta is not a virus, but it may be flagged by security tools such as [VirusTotal](https://virustotal.com) or [Triage](https://tria.ge/) as a Trojan due to its behavior.
+[Delta](https://deltaexploits.gg) is a free developer tool for [Roblox](https://roblox.com) that can run most available Roblox Luau scripts. It supports Android and iOS devices natively, as well as computers via emulators such as [MuMuPlayer](https://www.mumuplayer.com/) and [BlueStacks](https://www.bluestacks.com/). Delta is not a virus, but it may be flagged by security tools such as [VirusTotal](https://virustotal.com) or [Triage](https://tria.ge/) as a Trojan due to its behavior.
 
 It is usually undetected, meaning the risk of a Roblox account ban is low under normal circumstances. However, you can still be banned from specific games, especially if you use detected scripts that trigger a game's anti-cheat or honeypots.
 
