@@ -54,6 +54,8 @@ To install SideStore, you will need:
 13. Go to [https://deltaexploits.gg](https://deltaexploits.gg) and download the IPA.
 > Due to a Delta update, you will need to sign the IPA with an unrevoked certificate before continuing. You can use IPASignX to do this (read my tutorial about it). <br>
 > Instead of clicking "Install Now", click "Download IPA".
+(so you will still get the permission error if you continue, i will update this doc soon) <br>
+
 14. In the My Apps section of SideStore, click the plus (+) button at the top left. Find the Delta IPA you signed with the certificate and click it.
 15. Wait until Delta appears. Click Keep App Extensions.
 16. Check your Home Screen; you now have Delta!
