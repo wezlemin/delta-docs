@@ -19,7 +19,9 @@
 > Open the Google Play Store app, tap your profile icon, select Play Protect, then Settings (gear icon), and toggle off Scan apps with Play Protect.
 * 1/2: Do you have multiple profiles or a Secure Folder on your device? Check if Roblox or Delta was installed there.
 * 3/1/4: What is your phone’s CPU architecture? (You can use CPU-Z to find out.) If it is ARM32, that might be the issue, since Delta sometimes doesn’t support ARM32.
-> As of now, Delta only supports "arm64-v8a".
+> As of now, Delta only supports "arm64-v8a" and "armeabi-v7a".
+* 3/1/4: Have you checked if the Roblox folder exists? If not, delete it.
+> Install ZArchiver, go to 0/storage/emulated/Android/data then delete the com.roblox.client folder (if it is there).
 * 1/4: Have you tried clearing the cache for the package installer?
 * 1/4: Have you tried using a different package installer?
 
