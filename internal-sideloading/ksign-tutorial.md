@@ -25,7 +25,7 @@
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
 6. On your Home Screen, a bookmark will appear. You do not need to install ESigns from it!
-7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign Bypass Revoke 2.0** and download one of them (such as XL AXIATA, PT TBK). You should not forget the name of the ESign/KSign you downloaded.
+7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign Bypass Revoke 2.0** and click one of them (such as XL AXIATA, PT TBK). It will say say "Open in iTunes". However, it will not actually open in iTunes. Just click Open. *You should not forget the name of the ESign/KSign you downloaded.*
 > ⚠️ KSigns are better, but all but one have been removed from the website. If that one is revoked, visit [https://khoindvn.pages.dev](https://khoindvn.pages.dev). <br>
 
 > 💡 Start with the one at the top and work your way down the list if it is revoked. <br>
