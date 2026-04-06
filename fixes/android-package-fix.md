@@ -72,11 +72,14 @@ If none of the solutions worked, you may still have Roblox installed, even if it
     adb uninstall com.roblox.client
     ```
 
-**Afterwards, try to reinstall. If you have any issues, please contact me.**
 
 > Try running `adb shell pm uninstall --user 0 com.roblox.client` instead if the error still appears.
 
 > Run `adb shell pm list users` to see all the profiles on your phone, in case you have others you do not know about. Change 0 to the profile number, and the command for each profile.
+
+> Other commands: <br>
+> `adb shell cmd package uninstall --user 0 com.roblox.client` AND `adb shell cmd package clear com.roblox.client` <br>
+> `adb shell pm install-existing com.roblox.client` AND `adb uninstall com.roblox.client` <br>
 
 ## Instructions (With PC)
 
@@ -132,3 +135,7 @@ If you do not want to use Termux, you can run the `adb` commands on a computer i
    ```
 
    * Replace `0` with the correct user ID if needed
+
+> Other commands: <br>
+> `adb shell cmd package uninstall --user 0 com.roblox.client` AND `adb shell cmd package clear com.roblox.client` <br>
+> `adb shell pm install-existing com.roblox.client` AND `adb uninstall com.roblox.client` <br>
