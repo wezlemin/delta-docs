@@ -48,7 +48,7 @@ Once you can see your key, copy it, open a Roblox game, paste it in the box, and
 * Disconnect and reconnect to Wi-Fi.
 * Use mobile/cellular data (make sure Wi-Fi is off).
 * If auth.platorelay.com displays an error, restart the key system using the original link you copied.
-* If one browser/device doesn't work, try a different browser (Brave, Chrome, Firefox, Safari, etc.) or device.
+* If one browser/device doesn't work, try a different browser (Brave, Chrome, Firefox, Safari, Vivaldi, etc.) or device.
 * Use a browser emulator ([https://browser.lol](https://browser.lol)).
 
 ### Paid Keys
