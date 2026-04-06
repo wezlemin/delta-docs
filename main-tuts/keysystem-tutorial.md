@@ -41,7 +41,7 @@ Once you can see your key, copy it, open a Roblox game, paste it in the box, and
 **DO NOT USE A VPN ON IOS UNLESS AS A LAST RESORT. USING A VPN CAN REVOKE THE CERTIFICATE YOUR DELTA (AND SIGNER) USES, MAKING IT/THEM UNUSABLE.**
 * LootLabs: Run the site in desktop mode if you're doing the key on your phone. This will give you fewer tasks.
 * LootLabs: Some tasks are broken on LootLabs. If you wait more than 120 seconds for a task, reload the page.
-* LootLabs (ANDROID): If tasks do not complete/a timer does not show, try installing a VPN from the Play/App Store (for example: ProtonVPN or Cloudflare WARP). Enable it, then reload the key system page.
+* LootLabs (ANDROID): If tasks do not complete/a timer does not show, try installing a VPN from the Play Store (for example: ProtonVPN or Cloudflare WARP). Enable it, then reload the key system page.
 * If Linkvertise gives a 1-hour restriction, try clearing cookies, enabling a VPN (ANDROID), and reloading the page.
 * (ANDROID) If the key system link does not copy, try using a VPN. This also goes for if Platorelay does not load.
 * Open the key system link in an incognito window.
