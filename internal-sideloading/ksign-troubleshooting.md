@@ -14,7 +14,7 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 > Use this website: [https://khoindvn.pages.dev/](https://khoindvn.pages.dev/) (or read on...) <br>
 > List of api.khoindvn.io.vn links: [https://pastebin.com/3yV2rgBy](https://pastebin.com/3yV2rgBy)
 
-- If you cannot access [https://khoindvn.io.vn](https://khoindvn.io.vn), try these:
+- If you cannot access [https://khoindvn.io.vn](https://khoindvn.io.vn), or the KSigns/ESigns aren't downloading from it, try these:
 > Use mobile/cellular data (make sure Wi-Fi is off) <br>
 > Disconnect and reconnect to Wi-Fi <br>
 > Connect to another device's hotspot <br>
