@@ -35,16 +35,17 @@
 8. Go to your home screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
 > ⚠️ If no KSign/ESign appears on your home screen after you click Allow, read [KSign Troubleshooting](https://wezington-works.gitbook.io/delta-docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn). <br>
 
-9. Go to Settings → General → VPN and Device Management. Under Enterprise Apps, click on the certificate name and trust it (if you get asked to restart your phone, do so. It will show a "Ready to Install Profile" screen where you will need to enter your password to confirm that you want to install the profile/certificate).
+9. Go to Settings → General → VPN and Device Management. Under Enterprise Apps, click on the certificate name and trust it.
+> 💡 If you get asked to restart your phone, do so. It will show a "Ready to Install Profile" screen where you will need to enter your password to confirm that you want to install the profile/certificate). <br>
 10. Download the Delta IPA by going to [https://deltaexploits.gg](https://deltaexploits.gg). **Open this in Safari, not the Discord browser preview.**
-> If you cannot access the website, look [here](https://wezington-works.gitbook.io/delta-docs/information/delta-websites).
+> ⚠️ If you cannot access the website, look [here](https://wezington-works.gitbook.io/delta-docs/information/delta-websites).
 11. Use one of the methods below (depending on if you are using KSign or ESign):
 
 ## KSign Method
 
 1. Open KSign, and in the Files section, click the plus (+) button.
 
-> If KSign crashes upon opening, you will need to get a different one!
+> ⚠️ If KSign crashes upon opening, you will need to get a different one!
 
 2. Click Import Files and add your IPA file.
 3. Click the Delta IPA that appears in KSign Files and click Import to Library.
