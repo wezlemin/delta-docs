@@ -18,13 +18,12 @@
 
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
-
-> ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to khoindvn.
-
+> ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to khoindvn. <br>
+> ⚠️ If you cannot access khoindvn, read [KSign Troubleshooting](https://wezington-works.gitbook.io/delta-docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
 3. Scroll down, click on **Download DNS Profile** and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
-6. On your Home Screen, a bookmark will appear. You do not need to install ESigns from it!
+6. On your device's home screen, a bookmark will appear. You do not need to install ESigns from it!
 7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign Bypass Revoke 2.0** and click one of them (such as XL AXIATA, PT TBK). It will say say "Open in iTunes". However, it will not actually open in iTunes. Just click Open. *You should not forget the name of the ESign/KSign you downloaded.*
 > ⚠️ KSigns are better, but all but one have been removed from the website. If that one is revoked, visit [https://khoindvn.pages.dev](https://khoindvn.pages.dev). <br>
 
@@ -33,11 +32,10 @@
 
 > 💡 Attempt to install all the ESigns! Do not just try a few and give up because all of them were revoked. <br>
 
-8. Go to your phone's Home Screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
+8. Go to your home screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
+> ⚠️ If no KSign/ESign appears on your home screen after you click Allow, read [KSign Troubleshooting](https://wezington-works.gitbook.io/delta-docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn). <br>
 
-> ⚠️ If no application appears on your homescreen, read KSign Troubleshooting.
-
-9. Go to Settings → General → VPN and Device Management. Trust the enterprise app (and restart if required).
+9. Go to Settings → General → VPN and Device Management. Under Enterprise Apps, click on the certificate name and trust it (if you get asked to restart your phone, do so. It will show a "Ready to Install Profile" screen where you will need to enter your password to confirm that you want to install the profile/certificate).
 10. Download the Delta IPA by going to [https://deltaexploits.gg](https://deltaexploits.gg). **Open this in Safari, not the Discord browser preview.**
 > If you cannot access the website, look [here](https://wezington-works.gitbook.io/delta-docs/information/delta-websites).
 11. Use one of the methods below (depending on if you are using KSign or ESign):
