@@ -1,5 +1,5 @@
 ## ESign Method
-> ⚠️ This version of ESign is DEPRECATED! Read ESign "Ysign" Method if you use khoindvn ESign, NOT this.
+> ⚠️ This version of ESign is DEPRECATED! You are probably looking for ESign "Ysign" Method!
 1. Open ESign and click the ... button.
 2. Click Import and add your Delta IPA file.
 3. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn) (the website, because the bookmark will not work) and click Download Certificate. If the button does not work, click [here](https://khoindvn.io.vn/document/DNS/ESignCert.zip). You can also download the certificates from [https://techybuff.com/ksign](https://techybuff.com/ksign).
