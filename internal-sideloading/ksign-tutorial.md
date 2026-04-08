@@ -1,5 +1,4 @@
-# ESign/KSign Tutorial (Recommended)
-> UPDATE 2026-03-25: All the KSigns have been removed from the official Khoindvn website, and the ESigns have been turned into some sort of hybrid of KSign and the old ESign. The KSigns will likely return to Khoindvn soon. On 2026-03-26, the Khoindvn owner confirmed this; KSign will return to the website once the testing process for the new ESign is complete. As of now, there is only one KSign on the website.
+# KSign/ESign Tutorial (Recommended)
 
 ### Read KSign Troubleshooting if you have any issues.
 
@@ -24,15 +23,13 @@
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
 6. On your device's home screen, a bookmark will appear. You do not need to install ESigns from it!
-7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign Bypass Revoke 2.0** and click one of them (such as XL AXIATA, PT TBK). It will say say "Open in iTunes". However, it will not actually open in iTunes. Just click Open. *You should not forget the name of the ESign/KSign you downloaded.*
-> ⚠️ KSigns are better, but all but one have been removed from the website. If that one is revoked, visit [https://khoindvn.pages.dev](https://khoindvn.pages.dev). <br>
+7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign/KSign** and click one of them (such as XL AXIATA, PT TBK). It will say say "Open in iTunes". However, it will not actually open in iTunes. Just click Open. *You should not forget the name of the KSign/ESign you downloaded.*
+> 💡 KSigns are better! Start with the one at the top and work your way down the list if it is revoked. <br>
+> 💡 To save time, you could install multiple KSigns/ESigns at a time. <br>
 
-> 💡 Start with the one at the top and work your way down the list if it is revoked. <br>
-> 💡 To save time, you could install multiple ESigns at a time. <br>
+> 💡 Attempt to install all the KSigns/ESigns! Do not just try a few and give up because all of them were revoked. <br>
 
-> 💡 Attempt to install all the ESigns! Do not just try a few and give up because all of them were revoked. <br>
-
-8. Go to your home screen and wait for the ESign/KSign app to appear. Click on it and make sure you don't get an integrity/internet connection error (if you do, delete it and download another ESign/KSign). If you get an "Untrusted Developer" error, continue reading this guide.
+8. Go to your home screen and wait for the KSign/ESign app to appear. Click on it and make sure you don't get an integrity/internet connection error (if you do, delete it and download another KSign/ESign). If you get an "Untrusted Developer" error, continue reading this guide.
 > ⚠️ If no KSign/ESign appears on your home screen after you click Allow, read [KSign Troubleshooting](https://wezington-works.gitbook.io/delta-docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn). <br>
 
 9. Go to Settings → General → VPN and Device Management. Under Enterprise Apps, click on the certificate name and trust it.
@@ -111,4 +108,4 @@
 ## ESign "Ysign" Method without Khoindvn
 1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use ESign's: [https://khoindvn.io.vn/iPA/esign.ipa](https://khoindvn.io.vn/iPA/esign.ipa). You can use the Osign DNS or Khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the ESign "Ysign" Method section.
-> This is unfinished. I'll try adding the extra steps when I can, but js import the mobileprovision and p12 again after you open esign.
+> This is unfinished. I'll try adding the extra steps when I can, but just import the mobileprovision and p12 again after you open ESign.
