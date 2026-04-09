@@ -52,7 +52,7 @@ To install SideStore, you will need:
 12. Click the "7 DAYS" counter next to SideStore. If you receive a prompt asking to revoke or create a new signing certificate, tap 'Yes' or 'Refresh Now'.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
 13. Go to [https://deltaexploits.gg](https://deltaexploits.gg) and download the IPA.
-> Due to a Delta update, you will need to sign the IPA with an unrevoked certificate before continuing. You can use IPASignX to do this (read my tutorial about it). <br>
+> Due to a Delta update, you will need to sign the IPA with any certificate before continuing. You can use IPASignX to do this (read my tutorial about it). <br>
 > However, instead of clicking "Install Now", click "Download IPA". Afterwards, do the following: <br>
 >> 1. Go to Files and find the signed IPA (Browse > Downloads). Hold it, then tap Rename.
 >> 2. Add ".zip" after .ipa (e.g. NAME.ipa > NAME.ipa.zip). Tap "done", then tap "Use .zip".
