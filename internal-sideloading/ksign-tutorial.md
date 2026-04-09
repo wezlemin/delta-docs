@@ -80,6 +80,12 @@
 > This is the new ESign, which is like a hybrid of KSign and old ESign. <br>
 > In the User Service Agreement, it is referred to as "Ysign", so I will call it this.
 1. Open Ysign.
+> ⚠️ YSign has its certificate bundled, so you do not need to import it. If you read the "ESign "Ysign" Method without khoindvn" section, do the following:<br>
+>
+> > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download".\
+> > In Ysign, click on Settings, then click Certificate Management and and click Import. Import the Provisioning File (the .mobileprovision file). Afterwards, import the Certificate File (the .p12 file you used on the IPASignX website) and enter the certificate password ("osign"), then click Confirm.
+> >
+> > > If you forgot the name of the YSign you installed, check in Settings → General → VPN and Device Management.<br>
 2. Click on Don't Allow for notifications (or Allow).
 3. Click Next for the User Service Agreement, then click Agree.
 4. Click the ... button at the top right, then click Import File.
@@ -87,8 +93,9 @@
 6. Click Import to App Library.
 7. Wait for the IPA to unzip. Afterwards, click Confirm.
 8. Click on "Roblox.app - Delta". Click Sign, then click Start Signing.
-> If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br>
-9. Wait for it to Sign, then click "Go to Install"
+> ⚠️ If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br>
+> 💡 If it says that there isn't a provisioning profile selected, click Signing Certificates in the Certificate section and re-import the .mobileprovision file. <br>
+9. Wait for it to Sign, then click "Go to Install".
 10. Click "Install" for the "download.ipsv.eu.org" pop-up.
 11. Go to your home screen. Delta should install; you are done! 
 > ⚠️ If you click on Delta/ESign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the ESign. Afterwards, install another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
@@ -108,4 +115,3 @@
 ## ESign "Ysign" Method without Khoindvn
 1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use ESign's: [https://khoindvn.io.vn/iPA/esign.ipa](https://khoindvn.io.vn/iPA/esign.ipa). You can use the Osign DNS or Khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the ESign "Ysign" Method section.
-> This is unfinished. I'll try adding the extra steps when I can, but just import the mobileprovision and p12 again after you open ESign.
