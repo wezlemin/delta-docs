@@ -54,7 +54,7 @@ To install SideStore, you will need:
 13. Go to [https://deltaexploits.gg](https://deltaexploits.gg) and download the IPA.
 > Due to a Delta update, you will need to sign the IPA with an unrevoked certificate before continuing. You can use IPASignX to do this (read my tutorial about it). <br>
 > Instead of clicking "Install Now", click "Download IPA". <br>
-> so you actually have to do this afterwards (i don't have access to sidestore rn so i can't make this look nice, this is sen's instructions): hold the signed ipa and tap rename, make the .ipa at the end into .zip and tap use .zip. tap the file again and a folder called payload will show up, hold it and tap compress. Hold Payload.zip and rename it to like Roblox.ipa or whatever <br>
+> (to be cleaned up): hold the signed ipa and tap rename, make the .ipa at the end into .zip and tap use .zip. tap the file again and a folder called payload will show up, hold it and tap compress. Hold Payload.zip and rename it to like Roblox.ipa or whatever <br>
 
 14. In the My Apps section of SideStore, click the plus (+) button at the top left. Find the Delta IPA you signed with the certificate and click it.
 15. Wait until Delta appears. Click Keep App Extensions.
