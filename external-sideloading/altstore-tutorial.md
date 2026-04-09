@@ -38,8 +38,13 @@
 4. Go to the My Apps section. Click the "7 DAYS" counter next to SideStore.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
 5. Download the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg).
-> Due to a Delta update, you will need to sign the IPA with a certificate before continuing. You can use IPASignX to do this. <br>
-> Instead of clicking "Install Now", click "Download IPA".
+> Due to a Delta update, you will need to sign the IPA with an unrevoked certificate before continuing. You can use IPASignX to do this (read my tutorial about it). <br>
+> However, instead of clicking "Install Now", click "Download IPA". Afterwards, do the following: <br>
+>> 1. Go to Files and find the signed IPA (Browse > Downloads). Hold it, then tap Rename.
+>> 2. Add ".zip" after .ipa (e.g. NAME.ipa > NAME.ipa.zip). Tap "done", then tap "Use .zip".
+>> 3. Tap the file again, and hold the Payload folder once it is created.
+>> 4. Tap Compress, then hold Payload.zip once it gets created.
+>> 5. Tap Rename, then rename the file to Payload.ipa. Tap "done", then tap "Use .ipa". <br>
 6. Go back to AltStore. Click on the + icon, then import the Delta IPA. Keep App Extensions. Then wait... it may take a while to finish importing.
 7. Check your Home Screen; you now have Delta!
 
