@@ -11,4 +11,4 @@
   Direct also has more advertisements in-game than the IPA method (which only shows them right before you start the key system).
 - If you get upgrade/integrity errors, uninstall Delta and reinstall it. If you still get upgrade/integrity errors, sideload Delta with its IPA file
   or wait for Skibidi Tech to update Direct. He usually makes a video whenever he updates/changes the certificate used for Delta,
-  so subscribe to their YouTube channel and keep your notifications (to his channel) on.
+  so subscribe to his YouTube channel and keep your notifications on.
