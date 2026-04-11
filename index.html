@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Delta Docs (Unofficial)</title>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 20px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #0366d6;
+      }
+
+      #viewer {
+        max-width: 900px;
+        margin-top: 40px;
+        padding: 20px;
+        border-top: 1px solid #ddd;
+      }
+
+      #viewer h1,
+      #viewer h2,
+      #viewer h3 {
+        margin-top: 24px;
+      }
+
+      #viewer code {
+        background: #f6f8fa;
+        padding: 2px 6px;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>📁 Delta Docs (Unofficial)</h1>
+    <h3>This collection was created by wezlemin! Check out the source <a href="https://github.com/wezlemin/fq">here</a>. </h3>
+    <h4>If nothing loads, use the link above or try again later. </h4>
+    <div id="file-tree">Loading...</div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <div id="viewer"></div>
+    <script>
+      const user = "wezlemin";
+      const repo = "delta-docs";
+      const branch = "main";
+      const apiBase = `https://api.github.com/repos/${user}/${repo}/contents/`;
+      async function fetchTree(path = "") {
+        const url = apiBase + path;
+        const response = await fetch(url);
+        if (!response.ok) {
+          return `
+				<li>Error loading ${path}</li>`;
+        }
+        const items = await response.json();
+        if (!Array.isArray(items)) return "";
+        const ul = document.createElement("ul");
+        for (const item of items) {
+          const li = document.createElement("li");
+          if (item.type === "dir") {
+            li.innerHTML = `
+				<strong>📁 ${item.name}</strong>`;
+            const subTree = await fetchTree(item.path);
+            li.appendChild(subTree);
+          } else if (item.type === "file") {
+            const rawURL = `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${item.path}`;
+            if (item.name.endsWith(".md")) {
+              const link = document.createElement("a");
+              link.href = "#";
+              link.textContent = `📄 ${item.name}`;
+              link.onclick = async (e) => {
+                e.preventDefault();
+                const res = await fetch(rawURL);
+                const markdown = await res.text();
+                const html = marked.parse(markdown);
+                document.getElementById("viewer").innerHTML = html;
+                document.getElementById("viewer").scrollIntoView({ behavior: "smooth" });
+              };
+              li.appendChild(link);
+            } else {
+              const rawPage = encodeURI(`${window.location.origin}/${repo}/${item.path}`);
+              li.innerHTML = `
+				<a href="${rawPage}" target="_blank">📄 ${item.name}</a>`;
+            }
+          }
+          ul.appendChild(li);
+        }
+        return ul;
+      }
+      fetchTree().then(tree => {
+        const container = document.getElementById("file-tree");
+        container.innerHTML = "";
+        container.appendChild(tree);
+      });
+    </script>
+  </body>
+</html>
