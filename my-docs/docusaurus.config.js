@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Delta Docs',
-  tagline: 'Welcome to this unofficial documentation!',
+  tagline: 'This is an unofficial documentation created by @ts2021!',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -99,7 +99,11 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
+                label: 'Website',
+                href: 'https://deltaexploits.gg',
+              },
+              {
+                label: 'Discord Server',
                 href: 'https://discordapp.com/invite/deltacommunity',
               },
             ],
@@ -108,8 +112,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
+                label: 'GitHub Account',
                 href: 'https://github.com/wezlemin/delta-docs',
+              },
+              {
+                label: 'Discord Account',
+                href: 'https://discord.com/users/1173194312067059802',
               },
             ],
           },
