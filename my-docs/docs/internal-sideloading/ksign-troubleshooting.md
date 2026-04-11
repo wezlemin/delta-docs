@@ -5,7 +5,8 @@ If NONE of the KSigns or ESigns work (because they are all *REVOKED*), SCROLL TO
 - If you can’t delete the ESigns/KSigns in VPN and Device Management, go to Settings > Screen Time > Content & Privacy Restrictions > Turn off the toggle.
 - Note for KSign: You can import Delta into Library immediately (this is not used because some users find it difficult to find the IPA).
 - If you want to clone Delta, you can sign Delta with a different Identifier (it's in the same screen as where the Start Signing button is).
- 
+- To save your scripts when updating Delta, open the Files app, go to Browse > On My (Device) > Delta > Delta > Scripts. Afterwards, move all the scripts somewhere else (outside the Delta folder); once you update Delta, you can move them back in.
+
 ## What to do if you cannot access khoindvn
 > Use this website: [https://khoindvn.pages.dev/](https://khoindvn.pages.dev/) (or read on...) <br />
 > List of api.khoindvn.io.vn links: [https://pastebin.com/3yV2rgBy](https://pastebin.com/3yV2rgBy)
