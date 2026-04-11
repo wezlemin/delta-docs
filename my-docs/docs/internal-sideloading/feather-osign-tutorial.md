@@ -12,7 +12,7 @@
 3. Click Import Certificate File and click the .p12 file you used on the IPASignX website.
 4. Click Import Provisioning File and click the .mobileprovision file you used on the IPASignX website.
 5. Enter osign as the password and click Save. If nothing shows, try again.
-6. Click Library and click Import.
+6. Go to the Library section of Feather and click Import.
 7. Find the Delta IPA you downloaded (Feather > click Browse > click Downloads) and click Open.
 8. Wait for the Delta IPA to finish importing, then click Sign. Click Start Signing and wait.
 9. Click the Delta in the Signed section and wait. Click Install when prompted by ".backloop.dev".
