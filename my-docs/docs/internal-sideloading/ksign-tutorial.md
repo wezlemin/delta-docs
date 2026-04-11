@@ -52,7 +52,7 @@
 
 > ⚠️ KSigns have their certificate bundled, so you do not need to import it. The old KSigns were updated to be like this as well. If you read the "KSign Method without khoindvn" section, do the following:<br />
 >
-> > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download".\
+> > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download". Afterwards, go to the Files app and compress/extract the ZIP. \
 > > In KSign, click on Certificates and click Import. Import the Certificate File (the .p12 file you used on the IPASignX website) and the Provisioning File (the .mobileprovision file). Set the password to "osign" and click Save. If nothing shows, try again.<br />
 > >
 > > > If you forgot the name of the KSign you installed, check in Settings → General → VPN and Device Management.<br />
@@ -82,7 +82,7 @@
 1. Open Ysign.
 > ⚠️ YSign has its certificate bundled, so you do not need to import it. If you read the "ESign "Ysign" Method without khoindvn" section, do the following:<br />
 >
-> > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download".\
+> > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download". Afterwards, go to the Files app and compress/extract the ZIP. \
 > > In Ysign, click on Settings, then click Certificate Management and and click Import. Import the Provisioning File (the .mobileprovision file). Afterwards, import the Certificate File (the .p12 file you used on the IPASignX website) and enter the certificate password ("osign"), then click Confirm.
 > >
 > > > If you forgot the name of the YSign you installed, check in Settings → General → VPN and Device Management.<br />
