@@ -18,7 +18,7 @@
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
 > ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to khoindvn. <br />
-> ⚠️ If you cannot access khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn)
+> ⚠️ If you cannot access khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
 3. Scroll down, click on **Download DNS Profile** and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
