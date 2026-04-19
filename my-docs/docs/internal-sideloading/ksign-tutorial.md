@@ -116,7 +116,7 @@ However, instead of clicking "Install Now", click "Download IPA". Afterwards, do
 > 💡 If you open Roblox and it gives an update pop-up, join the Delta Discord server ([https://discord.com/invite/deltax](https://discord.com/invite/deltax)) and wait until the devs ping about an update for Delta. Once they ping, delete Delta (from App Library), download the new IPA, then import it in ESign and sign and install it. <br />
 
 ## ESign Method (non-"Ysign" version)
-> ⚠️ This version of ESign is DEPRECATED! If you know what you're doing, read [this](https://github.com/wezlemin/delta-docs/blob/main/internal-sideloading/esign-tutorial.md).
+> ⚠️ This version of ESign is DEPRECATED! If you know what you're doing, read [this](https://github.com/wezlemin/delta-docs/blob/main/my-docs/docs/internal-sideloading/esign-tutorial.md).
 
 ## KSign Method without Khoindvn
 > If you want to get KSign (and you do not want to use [https://khoindvn.pages.dev](https://khoindvn.pages.dev) to get them), read this:
