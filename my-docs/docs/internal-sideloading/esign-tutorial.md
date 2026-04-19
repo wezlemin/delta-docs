@@ -1,5 +1,16 @@
 ## ESign Method (non-"Ysign" version)
 > ⚠️ This version of ESign is DEPRECATED! You are probably looking for the ESign "Ysign" Method.
+
+### Preparation
+Due to a Delta update, you will need to sign the Delta IPA with any certificate before continuing. You can use IPASignX to do this (read my tutorial about it).
+However, instead of clicking "Install Now", click "Download IPA". Afterwards, do the following: <br />
+1. Go to Files and find the signed IPA (Browse > Downloads). Hold it, then tap Rename.
+2. Add ".zip" after .ipa (e.g. NAME.ipa > NAME.ipa.zip). Tap "done", then tap "Use .zip".
+3. Tap the file again, and hold the Payload folder once it is created.
+4. Tap Compress, then hold Payload.zip once it gets created.
+5. Tap Rename, then rename the file to Payload.ipa. Tap "done", then tap "Use .ipa". <br />
+
+### Installation
 1. Open ESign and click Ok. Afterwards, click Agree.
 2. Click the ... button, then import and add your Delta IPA file. Do not import the IPA to App Library yet.
 3. Go to [https://osign.ipasign.cc/](https://osign.ipasign.cc/) to download the certificates.
