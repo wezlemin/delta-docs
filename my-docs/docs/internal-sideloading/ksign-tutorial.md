@@ -17,8 +17,8 @@
 
 1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
-> ⚠️ Ignore all pop-ups/redirects! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to khoindvn. <br />
-> ⚠️ If you cannot access khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
+> ⚠️ Ignore all pop-ups/redirects (such as ones that say you have a virus)! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to Khoindvn. <br />
+> ⚠️ If you cannot access Khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
 3. Scroll down, click on **Download DNS Profile** and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
@@ -120,7 +120,7 @@ However, instead of clicking "Install Now", click "Download IPA". Afterwards, do
 
 ## KSign Method without Khoindvn
 > If you want to get KSign (and you do not want to use [https://khoindvn.pages.dev](https://khoindvn.pages.dev) to get them), read this:
-1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use KSign's: [https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa](https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa). You can use the Osign DNS or khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
+1. Read my IPASignX tutorial until you finish Step 16. Instead of using the Delta IPA, use KSign's: [https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa](https://github.com/Nyasami/KSign/releases/latest/download/KSign.ipa). You can use the Osign DNS or Khoindvn DNS (or any other anti-revoke DNS), it does not matter much. Make sure to download the Certificates ZIP.
 2. You can now read the KSign Method section. You will need to import the .p12 and .mobileprovision files.
 
 ## ESign "Ysign" Method without Khoindvn
