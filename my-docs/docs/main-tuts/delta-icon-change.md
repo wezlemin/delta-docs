@@ -1,5 +1,5 @@
 # Changing the Delta Icon
-> :warning: NOTICE: The icon will RESET every update.
+> :warning: The icon will RESET every update on iOS.
 ## Android Tutorial
 1. Download an image that will serve as the new icon. It should be a square or circle with a background.
 2. Join a Roblox game.
@@ -10,10 +10,10 @@
 7. Scroll until you find the icon you downloaded.
 8. Hold it. Afterwards, click "Copy".
 9. Swipe back, then click on the Delta folder.
-10. Click on "Workspace".
+10. Click on "Internals", then click on "Assets".
 11. Click the clipboard icon at the bottom right.
-12. Delete "new_logo.png".
-13. Rename the icon you added to "new_logo.png" (hold it, then click Rename, then click Ok).
+12. Delete "logo.png".
+13. Rename the icon you added to "logo.png" (hold it, then click Rename, then click Ok).
 14. That should be all!
 
 ## iOS Tutorial
