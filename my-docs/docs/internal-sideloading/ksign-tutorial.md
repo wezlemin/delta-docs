@@ -80,7 +80,6 @@
 > This is the new ESign, which is like a hybrid of KSign and old ESign. <br />
 > In the User Service Agreement, it is referred to as "Ysign", so I will call it this.
 
-### Installation
 1. Open Ysign.
 > ⚠️ YSign has its certificate bundled, so you do not need to import it. If you read the "ESign "Ysign" Method without khoindvn" section, do the following:<br />
 >
