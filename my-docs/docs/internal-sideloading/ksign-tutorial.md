@@ -80,15 +80,6 @@
 > This is the new ESign, which is like a hybrid of KSign and old ESign. <br />
 > In the User Service Agreement, it is referred to as "Ysign", so I will call it this.
 
-### Preparation
-Due to a Delta update, you will need to sign the Delta IPA with any certificate before continuing. You can use IPASignX to do this (read my tutorial about it).
-However, instead of clicking "Install Now", click "Download IPA". Afterwards, do the following: <br />
-1. Go to Files and find the signed IPA (Browse > Downloads). Hold it, then tap Rename.
-2. Add ".zip" after .ipa (e.g. NAME.ipa > NAME.ipa.zip). Tap "done", then tap "Use .zip".
-3. Tap the file again, and hold the Payload folder once it is created.
-4. Tap Compress, then hold Payload.zip once it gets created.
-5. Tap Rename, then rename the file to Payload.ipa. Tap "done", then tap "Use .ipa". <br />
-
 ### Installation
 1. Open Ysign.
 > ⚠️ YSign has its certificate bundled, so you do not need to import it. If you read the "ESign "Ysign" Method without khoindvn" section, do the following:<br />
@@ -101,11 +92,10 @@ However, instead of clicking "Install Now", click "Download IPA". Afterwards, do
 3. Click Next for the User Service Agreement, then click Agree.
 4. Click the ... button at the top right, then click Import File.
 5. Click Files, then click on the Delta IPA you downloaded.
-6. Click Import to App Library.
-7. Wait for the IPA to unzip. Afterwards, click Confirm.
-8. Click on "Roblox.app - Delta". Click Sign, then click Start Signing.
+6. Click Extract IPA, and wait for it to finish. Click the folder it creates.
+7. Click Payload, then click Delta.
+8. Click Sign, then click Start Signing.
 > ⚠️ If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br />
-> 💡 If it says that there isn't a provisioning profile selected, click Signing Certificates in the Certificate section and re-import the .mobileprovision file. <br />
 9. Wait for it to Sign, then click "Go to Install".
 10. Click "Install" for the "download.ipsv.eu.org" pop-up.
 11. Go to your home screen. Delta should install; you are done! 
