@@ -86,18 +86,19 @@
 > > If you haven't already, download the Certificates ZIP by going to [https://osign.ipasign.cc/](https://osign.ipasign.cc/), clicking "Certificates" and then clicking "Download". Afterwards, go to the Files app and compress/extract the ZIP. \
 > > In Ysign, click on Settings, then click Certificate Management and and click Import. Import the Provisioning File (the .mobileprovision file). Afterwards, import the Certificate File (the .p12 file you used on the IPASignX website) and enter the certificate password ("osign"), then click Confirm.
 > >
-> > > If you forgot the name of the YSign you installed, check in Settings → General → VPN and Device Management.<br />
+> > > If you forgot the name of the Ysign you installed, check in Settings → General → VPN and Device Management.<br />
 2. Click on Don't Allow for notifications (or Allow).
 3. Click Next for the User Service Agreement, then click Agree.
 4. Click the ... button at the top right, then click Import File.
 5. Click Files, then click on the Delta IPA you downloaded.
-6. Click Extract IPA, and wait for it to finish. Click the folder it creates.
-7. Click Payload, then click Delta.
-8. Click Sign, then click Start Signing.
+6. Wait until the IPA appears in Ysign, then click it.
+7. Click Extract IPA, and wait for it to finish. Click the folder it creates.
+8. Click Payload, then click Delta.
+9. Click Sign, then click Start Signing.
 > ⚠️ If you encounter application crashes during installation, try enabling the "Automatically insert JB dependencies" feature to see if that resolves the issue. <br />
-9. Wait for it to Sign, then click "Go to Install".
-10. Click "Install" for the "download.ipsv.eu.org" pop-up.
-11. Go to your home screen. Delta should install; you are done! 
+10. Wait for it to Sign, then click "Go to Install".
+11. Click "Install" for the "download.ipsv.eu.org" pop-up.
+12. Go to your home screen. Delta should install; you are done! 
 > ⚠️ If you click on Delta/ESign and get an integrity error, or if you click on it and it immediately closes/crashes, you will need to delete Delta and/or the ESign. Afterwards, install another KSign/ESign. MAKE SURE YOU TRY THEM ALL, DON’T GIVE UP!
 
 > ⚠️ Do not delete the DNS or use a VPN. You should also not delete KSign as you will need it when Delta updates. <br />
