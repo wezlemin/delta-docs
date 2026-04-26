@@ -10,7 +10,7 @@ To install SideStore, you will need:
 - An Apple Account (also called an Apple ID)
 - A Wi-Fi connection
 - Developer Mode (iOS/iPadOS 16+)
-> To enable Developer mode, go to Privacy & Security and scroll down to Developer Mode. Enable it; your phone will restart.
+> To enable Developer Mode, go to Privacy & Security and scroll down to Developer Mode. Enable it; your phone will restart.
 
 ## Preparation
 1. On your iDevice, go to the App Store and search "LocalDevVPN".
