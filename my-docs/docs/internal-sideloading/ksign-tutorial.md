@@ -1,6 +1,13 @@
 # KSign/ESign Tutorial (Recommended)
+> Temporary Notice: Whilst support forums are closed...
 
-### Read KSign Troubleshooting if you have any issues.
+> If you're struggling to get IPA and I'm not online, paste this (and press enter) into Safari:
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/wezlemin/signed-delta/refs/heads/main/beijing.plist
+
+> Afterwards, click Install, wait for Delta to install, go to Settings > General > VPN and Device Management > Trust the App.
+
+> Then you can restart your phone and use Delta.
+
 
 ### Video Tutorials for KSign:
 
@@ -10,6 +17,8 @@
 ### Written Tutorials for KSign:
 
 * [https://docs.deltaexploits.gg/installation/ios](https://docs.deltaexploits.gg/installation/ios)
+
+### Read KSign Troubleshooting if you have any issues.
 
 ## Preparation
 
