@@ -15,7 +15,7 @@
 
 > If you don't want to use Khoindvn (just use it, it's safe), read the "KSign Method without Khoindvn" section.
 
-1. Delete your current version of Delta Roblox. Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
+1. Delete your current version of Delta Roblox (if you already have Delta via Direct Install). Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
 > ⚠️ Ignore all pop-ups/redirects (such as ones that say you have a virus)! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to Khoindvn. <br />
 > ⚠️ If you cannot access Khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
@@ -73,7 +73,7 @@
 
 > ⚠️ Do not delete the DNS or use a VPN. You should also not delete KSign as you will need it when Delta updates. <br />
 
-> 💡 If you open Roblox and it gives an update pop-up, join the Delta Discord server ([https://discord.com/invite/deltax](https://discord.com/invite/deltax)) and wait until the devs ping about an update for Delta. Once they ping, delete Delta (from App Library), download the new IPA, then import it in KSign and sign and install it. <br />
+> 💡 If you open Roblox and it gives an update pop-up, join the Delta Discord server ([https://discord.com/invite/deltax](https://discord.com/invite/deltax)) and wait until the devs ping about an update for Delta. Once they ping, delete Delta (from App Library, not (just) in KSign), download the new IPA, then import it in KSign and sign and install it. <br />
 
 
 ## ESign "Ysign" Method
