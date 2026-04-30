@@ -24,7 +24,7 @@
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
 6. On your device's home screen, a "khoindvn" bookmark will appear. You do not need to install KSigns/ESigns from it!
 7. Go back to [https://khoindvn.io.vn](https://khoindvn.io.vn). Scroll down to **ESign/KSign** _(do not click on Delta VN)_, and click one of them (such as XL AXIATA, PT TBK). It will ask you to "Open in iTunes". However, it will not actually open in iTunes; just click Open. *You should not forget the name of the KSign/ESign you downloaded.*
-> 💡 KSigns are better! Start with the one at the top and work your way down the list if it is revoked. <br />
+> 💡 KSigns are better! Try the Luoyang Postal Administration and National Oilwell Varco, Inc. certificates first; if they are both revoked, try the others. <br />
 > 💡 To save time, you could install multiple KSigns/ESigns at a time. <br />
 
 > 💡 Attempt to install all the KSigns/ESigns! Do not just try a few and give up because all of them were revoked. <br />
