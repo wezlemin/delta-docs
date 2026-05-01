@@ -15,7 +15,7 @@
 
 > If you don't want to use Khoindvn (just use it, it's safe), read the "KSign Method without Khoindvn" section.
 
-1. Delete your current version of Delta Roblox (if you already have Delta via Direct Install). Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead).
+1. Delete your current version of Delta Roblox (if you already have Delta via Direct Install). Turn your VPN off if you have one on (if you're stupid and don't know how to, delete it instead). You should also restart your device.
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
 > ⚠️ Ignore all pop-ups/redirects (such as ones that say you have a virus)! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to Khoindvn. <br />
 > ⚠️ If you cannot access Khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
@@ -33,7 +33,7 @@
 > ⚠️ If no KSign/ESign appears on your home screen after you click Allow, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn). <br />
 
 9. Go to Settings → General → VPN and Device Management. Under Enterprise Apps, click on the certificate name and trust it.
-> 💡 If you get asked to restart your phone, do so. It will show a "Ready to Install Profile" screen where you will need to enter your password to confirm that you want to install the profile/certificate). <br />
+> 💡 If you get asked to restart your device, do so. It will show a "Ready to Install Profile" screen where you will need to enter your password to confirm that you want to install the profile/certificate). <br />
 10. Download the Delta IPA by going to [https://deltaexploits.gg](https://deltaexploits.gg). **Open this in Safari, not the Discord browser preview.**
 > ⚠️ If you cannot access the website, look [here](https://wezlemin.github.io/delta-docs/docs/info/delta-websites).
 11. Use one of the methods below (depending on if you are using KSign or ESign):
