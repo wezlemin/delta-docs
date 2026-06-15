@@ -57,6 +57,7 @@ const sidebars = {
       items: [
         'fixes/asset-fix',
         'fixes/android-package-fix',
+        'fixes/obtaining-crash-logs',
       ],
     },
   ],
