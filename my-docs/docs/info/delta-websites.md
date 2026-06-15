@@ -6,22 +6,6 @@
 * Alternative: [https://deltaexploits.dev/](https://deltaexploits.dev/)
 * Direct Install (unofficial): [https://delta.bz/](https://delta.bz/)
 
-## iOS Download
-
-* Main: [https://gloopup.net/Delta/ios/](https://gloopup.net/Delta/ios/)
-* Alternative: [https://gloopup.xyz/Delta/ios/](https://gloopup.xyz/Delta/ios/)
-
-**If the download doesn’t work for .net:**
-
-1. Open the .xyz link
-2. You’ll see a redirect like:
-   `https://cdn.gloopup.net/file/Delta-version.ipa`
-3. Copy that link into your browser
-4. Replace **`.net` → `.xyz`**
-5. Press enter to download
-
-> Make sure you use Safari to download the Delta IPA.
-
 ## Android Download
 
 * [https://delta.filenetwork.vip/android.html](https://delta.filenetwork.vip/android.html)
@@ -43,4 +27,4 @@
 * Disconnect from Wi-Fi and reconnect.
 * Use mobile (cellular) data. Make sure Wi-Fi is turned off.
 * Connect to someone else’s hotspot.
-* Try another browser (such as Brave, Firefox, Edge and Opera).
+* Try another browser (such as Brave, Firefox, Edge, and Opera).
