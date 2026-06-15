@@ -34,3 +34,4 @@
 * [Fixes](my-docs/fixes/intro.md)
   * [Delta Asset Loading Fix](my-docs/fixes/asset-fix.md)
   * [Android Package Fix](my-docs/fixes/android-package-fix.md)
+  * [Obtaining Crash Logs](my-docs/fixes/obtaining-crash-logs.md)
