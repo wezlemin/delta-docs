@@ -23,7 +23,7 @@
 * 1/3/4/5: What is your phone’s CPU architecture? (You can use CPU-Z to find out.) If it is ARM32, that might be the issue, since Delta sometimes doesn’t support ARM32.
 > As of now, Delta only supports "arm64-v8a" and "armeabi-v7a".
 * 1/2/4/5: Have you checked if the Roblox folder exists? If not, delete it.
-> Install ZArchiver, go to 0/storage/emulated/Android/data then delete the com.roblox.client folder (if it is there).
+> Install ZArchiver from the Play Store, go to 0/storage/emulated/Android/data, then delete the com.roblox.client folder (if it is there).
 * 5: Do you have enough storage? Delete some files you do not need, then try to re-install.
 * 1/4/5: Have you tried clearing the cache/data for your package installer?
 * 1/4/5: Have you tried using a different package installer (perhaps a file manager instead of a browser)?
