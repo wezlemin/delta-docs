@@ -63,9 +63,9 @@
 > ⚠️ If Delta gets stuck on the Ready screen, do the following:<br />
 >
 > > Go to the "Settings" Section of KSign.\
-> > Tap "Server & SSL".\
+> > Tap "Server & SSL" (called "Installation" in newer versions).\
 > > Change "Installation Type" to "Semi-Local".\
-> > Click “Suspend” to close KSign. Afterwards, reopen it.\
+> > Click "Suspend" to close KSign. Afterwards, reopen it.\
 > > Try resigning + reinstalling again.<br />
 
 6. Go to your device's home screen and wait until the new KSign app installs, which will turn into a Delta. You can now click it and play Roblox with Delta!
