@@ -19,7 +19,7 @@
 2. Go to [https://khoindvn.io.vn](https://khoindvn.io.vn) on Safari. **Do not go** to [https://khoindvn.com](https://khoindvn.com).
 > ⚠️ Ignore all pop-ups/redirects (such as ones that say you have a virus)! If you get redirected, just swipe back (or go to the Khoindvn tab) to return to Khoindvn. <br />
 > ⚠️ If you cannot access Khoindvn, read [KSign Troubleshooting](https://wezlemin.github.io/delta-docs/docs/internal-sideloading/ksign-troubleshooting#what-to-do-if-you-cannot-access-khoindvn).
-3. Scroll down, click on **Download DNS Profile** and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/top-country-stats/releases/download/DNS/khoindvn.io.vn.mobileconfig).
+3. Scroll down, click on **Download DNS Profile** and press Allow. If the button does not work, click [here](https://github.com/dns-khoindvn/oci-auto-vm/releases/download/DNS/khoindvn.mobileconfig).
 4. Go to Settings and click on Profile Downloaded (or General → VPN and Device Management). Install the Khoindvn DNS Profile. Enter your password if prompted.
 5. If required, go to Settings → General → About → Certificate Trust Settings and toggle the switch on for AAA Certificates.
 6. On your device's home screen, a "khoindvn" bookmark will appear. You do not need to install KSigns/ESigns from it!
