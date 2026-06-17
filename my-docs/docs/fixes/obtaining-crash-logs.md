@@ -66,4 +66,9 @@ If there are no files in the Crashes folder, you will have to install LogFox. Mo
 3. Once you have Shizuku running, open LogFox and click on Shizuku. Click "Allow all the time" for the "Allow Logfox to access Shizuku?" pop-up. It will close, and when you reopen it, you will be able to see logs appearing. Open Delta, and when you get a crash, it will likely appear in the Crashes section!
 
 ## iOS
-TBA - I don't have an iOS phone, I only borrow it sometimes. All my guides are created by me solely and are tested by me.
+1. Open the Settings app on your device.
+2. Go to Privacy and Security.
+3. Click on Analytics and Improvements.
+4. Click on Analytic Data; it should be at the top.
+5. Find the Crash Log file that is for Roblox.
+6. Click on it, then share it with the Delta Support.
