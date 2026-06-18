@@ -24,6 +24,7 @@
   * [Keysystem Tutorial](my-docs/main-tuts/keysystem-tutorial.md)
   * [Direct Install Tutorial](my-docs/main-tuts/delta-direct.md)
   * [Autoexecute (iOS)](my-docs/main-tuts/autoexecution.md)
+  * [Saving Scripts (iOS)](my-docs/main-tuts/save-scripts.md)
   * [Turning Toggles Off](my-docs/main-tuts/toggles-off.md)
   * [Changing The Delta Icon](my-docs/main-tuts/delta-icon-change.md)
 
