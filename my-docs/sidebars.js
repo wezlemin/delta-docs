@@ -37,6 +37,7 @@ const sidebars = {
         'main-tuts/keysystem-tutorial',
         'main-tuts/delta-direct',
         'main-tuts/autoexecution',
+        'main-tuts/save-scripts',
         'main-tuts/toggles-off',
         'main-tuts/delta-icon-change',
       ],
